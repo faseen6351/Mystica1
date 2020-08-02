@@ -1,0 +1,25 @@
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "How to Update a patient in the schedule?",
+        "text": [
+
+"STEP:1. Click the Patient Schedule icon.",
+"STEP:2. From the Schedule screen, click Update.",
+"STEP:3. From the Update Parameters screen, select one of the following options from the Get Patient List to",
+"populate the schedule from yourHIS/RIS.",
+"ï‚· Select This system to pull the patient schedule forthe current scanner.",
+"ï‚· Select All CT Systems to pull the patient schedule for all of the CT systems on the HIS/
+RIS connection.",
+"ï‚· Select All Systems to pull the patient schedule for all the systems on the HIS/RIS connection.",
+"STEP:4. Enter values for the Date Range.",
+"STEP:5. Enter a Requested Procedure ID, accession number, patient name orID to narrow the search. These
+are optional fields.",
+"STEP:6. Click Continue Update to continue or click Cancel Update to exit and make no changes."
+ ]
+      }
+    ]
+  ]
+}

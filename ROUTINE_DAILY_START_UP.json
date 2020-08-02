@@ -1,0 +1,16 @@
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "Daily start up?", 
+        "text": [
+          "1. From the monitor, click Shutdown.",
+"2. ClickRestart.",
+"3. ClickOK." 
+        ]
+      }
+    ]
+  ]
+}
+

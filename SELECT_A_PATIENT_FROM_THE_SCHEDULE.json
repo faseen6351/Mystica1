@@ -1,0 +1,30 @@
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "How to Select a patient from the schedule?",
+        "text": [
+         "1. Click the Exam Rx icon.",
+
+"2. Click the Patient Schedule icon.",
+
+"3. From the Patient schedule list, select the desired patient and click Select Patient. ï‚· The Patient Information screen fields are populated.",
+
+"ï‚· Multiple records forthe same patient can be selected.",
+
+"ï‚· Multiple records must be selected in order to use Exam Split. ï‚· If more than one record with the same Patient ID is found in the Patient schedule list a dialog",
+
+"message displays. To avoid having multiple Patient Records with the same Patient ID, set the",
+
+"Delete Completed Exams preference to zero. This will ensure that only new records are in the",
+
+"Patient Schedule list.",
+
+"4. If a protocol is not tied to the patient, select the protocol. The system displays the first series."
+        ]
+      }
+    ]
+  ]
+}

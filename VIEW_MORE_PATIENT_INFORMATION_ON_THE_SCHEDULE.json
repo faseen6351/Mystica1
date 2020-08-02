@@ -1,0 +1,16 @@
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "How to View more patient information on the schedule?", 
+        "text": [
+          "STEP:1. Click the Patient Schedule icon.",
+"STEP:2. From the Schedule screen, select a patient.",
+"STEP:3. Click View More Info. The screen is populated from your HIS/RIS.",
+"STEP:4. Click Cancel to close the More Information screen."  
+        ]
+      }
+    ]
+  ]
+}

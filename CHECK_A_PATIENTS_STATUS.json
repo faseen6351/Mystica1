@@ -1,0 +1,22 @@
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "How to Check a patient's status?",
+        "text": [
+          "1. Click the Patient Schedule icon.",
+
+"2. View the Status column.",
+
+"i‚· N = New Record or Not Completed",
+
+"ii‚· C = Completed",
+
+"3. Click or arrows to page through the list."
+        ]
+      }
+    ]
+  ]
+}

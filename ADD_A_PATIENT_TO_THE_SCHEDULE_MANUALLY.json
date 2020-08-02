@@ -1,0 +1,32 @@
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "How to Add a patient to the schedule manually?",
+        "text": [
+          "STEP:1. Click the Patient Schedule icon.",
+
+"STEP:2. From the Schedule screen, click Add Patient.",
+
+"STEP:3. From the Schedule Patient screen, complete all relevantfields.",
+
+"ï‚· Entering even weights may be rounded up to the next odd pound because weights are stored as
+kilogram units then converted back to pounds.",
+
+"ï‚· If adding a patient where Exam Split is going to be used, an exam description must be entered for
+those entries to be used with Hard Exam Split.",
+
+"ï‚· If desired, add the number of the specific protocol under Protocol Number.",
+
+"ï‚· If desired,type in the date and time in appropriate fields to be able to sort the Patient Schedule by
+scheduledtimes.",
+
+"STEP:4. Click Accept to add the patient to the schedule."
+        ]
+      }
+    ]
+  ]
+}
+

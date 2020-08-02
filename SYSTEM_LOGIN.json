@@ -1,0 +1,18 @@
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "How to login to the system?",
+        "text": [
+          "STEP:1. From the logon screen, type your assigned logon name.",
+"STEP:2. Type your password.",
+"ï‚· Click Emergency Logon only if you do not have a valid account set up. The Emergency Logon",
+"screen is launched, which does not require a ID or password.",
+"STEP:3. Click Logon."
+        ]
+      }
+    ]
+  ]
+}

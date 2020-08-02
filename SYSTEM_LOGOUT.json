@@ -1,0 +1,14 @@
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "How to log off the system?",
+        "text": [
+         "1. From the monitor, click the Shutdown icon.",
+"2. From the Attention Shutdown pop-up screen, click Logout User and OK."
+        ]
+      }
+    ]
+  ]
+}
