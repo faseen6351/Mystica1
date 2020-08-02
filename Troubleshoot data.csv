@@ -1,0 +1,1587 @@
+TID (unique),KEYWORD(unique),TAG(Separate with comma),CATEGORY, PID(Separate with comma if more than one),QUESTION,ANSWER,Documentation link ,YouTube solution link,RSID
+GVR81,Before Power On,power supply,power,VENR860,procedures to be done before powering on the system ?,"1. Connect the Inspiratory Safety Guard (ISG) to the
+inspiratory port.
+2. Connect the Exhalation Valve Assembly (EVA) to the exhalation port.
+3. Familiarize yourself with the hard keys on the display.
+a. 2-minute audio pause
+b. Increase O2
+c. Snapshot
+d. Lock/Unlock
+e. Home
+f. Trim Knob
+4. Attach the breathing circuit and all accessories that will be used to ventilate the patient.
+",https://drive.google.com/file/d/1Gub9cUvd1MbbtEV6c5c1B4PTVqf510ed/view?usp=sharing,,
+GVR82,Power on,Turn on,power,VENR860,How to turn on the system ?,"1. Connect the air and oxygen supply hoses to the gas
+supply source.
+2. Plug power cord into an approved electrical outlet.
+3. Press the power switch to turn on the ventilator.
+",https://drive.google.com/file/d/1vhVgeBiqC-KXBhWBB-tWE4tHDtspOb1r/view?usp=sharing,,
+GVR83,Patient setup,patient care,interface,VENR860,How to setup the system for new patient ?,"1. Select NEW PATIENT.
+2. Select Adult, Pediatric or Neonatal patient type.
+.3. Select Patient ID (Identification), if necessary, and enter 10 characters and select Confirm.
+4. Select Gender (male or female).
+5. Select Height.
+6. Select Weight.
+7. Select Tube Type (Endotrach, Trach, or ---.
+8. Select Tube Diameter.
+9. Verify and confirm settings by pressing Confirm.",https://drive.google.com/file/d/1aCSe_Rg8cx_0lJegShdeOev22xT3YM5z/view?usp=sharing,,
+GVR84,System Check,"system check,system troubleshoot,circuit check up",Interface,VENR860,How to perform system check ?,,,,
+GVR85,RUNNING_A_SYSTEM_CHECK,"Run, troubleshooting",Interface,VENR860,How to check the system in running,"1. From Standy, select system check.
+2. Attach the breathing circuit and all accessories that will be used to ventilate the patient.
+3. Occlude the patient wye using the occlusion port.
+4. Select start
+5. Select the information icon to see the system check details menu",https://drive.google.com/file/d/10lDZamRT-fhPTgs4zdNGXqwMxfH_ChTu/view?usp=drivesdk,,
+GVR86,SETTING_A_VENTILATION_MODE,"setup, setting, ventilation",Interface,VENR860,How to setting the ventilation mode,"1. Select current mode. 
+2. Select the desired ventilation mode. 
+3. Select Assist Control, Leak Comp or Trigger Comp, if desired.
+4. Set the desired settings for the Ventilation mode and Confirm.",https://drive.google.com/file/d/10n2XhqFRIIcx9Cf18ncoRuz1zEP59ZKr/view?usp=drivesdk,,
+GVR87,PATIENT_VENTILATION,"Ventilation, start",Interface,VENR860,How to start the patient ventilation,"1. From Standby, select Start Ventilation. 
+2. After ventilation has started, connect the breathing circuit to the patient",https://drive.google.com/file/d/10p0H_eUxR5Gu36jUv9hHHfNRcUyY9X-m/view?usp=drivesdk,,
+GVR88,ALARM_PANEL,"Alarm, indicator, panel",Indicator,VENR860,How to use the Alarm panel,"1. Audio pause. 
+2. Alarm Status. 
+3. Alarm setup. 
+4. Audio Pause Timer. 
+5. Active Alarm count",https://drive.google.com/file/d/10r-ICQLMuIZTAkhXB9vk7nQ3H25qTCGh/view?usp=drivesdk,,
+GVR89,ALARM_SETUP,"Setup, Alarm, settings",Indicator,VENR860,How to set the Alarm,"1. Apnea Time: Set apnea time up to 60 seconds.
+2. Alarm Light Brightness: Set the brightness level 
+ of the alarm light. The range is 1 (Low) to 5 (High).
+3. Alarm Volume: Set the alarm volume of the alarm 
+ tone. The range is 1 (Low) to 5 (High).
+4. High Alert Audio: Set the delay time in which a 
+ high-priority alarm must be resolved before the audio 
+ tone pitch and volume increases to the maximum level.
+ The range is 0 to 30 seconds or Off. A general message 
+ shows when High Alert Audio is set to Off.
+5. Alarm Limits: Select the check box to show alarm 
+ limits adjacent to the measured data in the patient 
+ data workspace. The alarm limit always shows when 
+ an alarm occurs for the measured data, even if it is 
+ set to Off.
+6. Auto Limits: Select to set auto alarm limits based on 
+ current measured data for:
+a. MVexp-Low and High
+b. VTexp-Low and High
+c. Rate-Low and High
+d. EtCO2-Low and High
+e. PEEPe-Low and High",https://drive.google.com/file/d/10um-GV2sIbFX0vncHXUwqLv-E65nl8JS/view?usp=drivesdk,,
+GLOGIQ91,POWERING_THE_SYSTEM,"power supply,power,system",power,LOGIQ9,Procedures to be done before powering on the system ?,"1. Ensure that the wall outlet is of the appropriate type.
+2. Ensure that the power switch is turned off.
+3. Unwrap the power cable. Make sure to allow sufficient slack 
+in the cable so that the plug is not pulled out of the wall if the 
+system is moved slightly.
+4. Attach the power plug to the system and secure it in place 
+by using the retaining clamp ",,,
+GLOGIQ92,PASSWORD_PROTECTION,"Password,Protection",Power,LOGIQ9,How to set Password to the system?,"1. Operator: Select the Operator.
+2. Password: Enter Operator’s password (optional).
+3. Select type of Logon or Cancel.
+• Emergency: Data stored only for the duration of the 
+current examination.
+• OK: Standard logon
+• Cancel: Cancel logon
+If the correct ID and Password are entered, the system displays 
+the Patient screen.
+Logoff To logoff, press the Power On/Off switch momentarily and a 
+SYSTEM-EXIT window appears.",https://drive.google.com/file/d/1CQUDHicV0E1Mq1qrgxu8ViTqoDxibjWA/view?usp=sharing,,
+GLOGIQ93,STANDBY_MODE,"Power,Time",Power,LOGIQ9,How to Standby Mode?,"1. Press the Power On/Off switch at the front of the system 
+once.
+2. The System-Exit window displays.
+3. Using the Trackball, select Standby.
+It takes approximately 20 seconds to go into Standby Mode.
+4. Transport the system as needed and plug it back in.
+See ‘Moving the System’ for more information.
+5. Press and immediately release the Power On/Off switch to 
+come out of Standby Mode. This takes about 45 seconds.",,,
+GLOGIQ94,POWER_OFF,Power,Power,LOGIQ9,How to turn off the System,"1. Press the Power On/Off switch at the front of the system 
+once.
+2. The System-Exit window is displayed.
+3. Using the Trackball, select Shutdown.
+The shutdown process takes a few seconds and is 
+completed when the Power On/Off switch illumination is 
+turned amber.
+4. Disconnect the probes.
+Clean or disinfect all probes as necessary. Store them in 
+their shipping cases to avoid damage.",https://drive.google.com/file/d/1FsMYoALX9AQ_moC52ROvCTR71Xc5aaJl/view?usp=sharing,,
+GLOGIQ95,CIRCUIT_BREAKER,Power,Power,LOGIQ9,How to manage Power overloads?,"If a power overload occurs:
+1. Turn off all peripheral devices.
+2. Reactivate the Circuit Breaker switch.
+The Circuit Breaker switch should stay in the On position; DO
+NOT hold the switch in the On position. If the Circuit Breaker 
+switch remains On, follow the Power On procedure previously 
+described.
+NOTE: If the Circuit Breaker switch does not remain in the On position 
+or trips again:
+1. Disconnect the Power Cable.
+2. Call Service immediately.
+DO NOT attempt to use the system.",https://drive.google.com/file/d/1TEpDX-XQzMa53QQGpI08p3xUw89fMMkW/view?usp=sharing,,
+GLOGIQ96,TRANSPORTING_THE_SYSTEM,"Transpoting,Positioning",Transport,LOGIQ9,Precautions taken before Transporting or Moving the System?,"1. Press the Power On/Off switch to power off. See ‘Power 
+Off’ for more information.
+2. Unplug the power cord.
+3. All cables from off-board peripheral devices (IIE camera, 
+external printer, VCR, etc.) must be disconnected from the 
+console.
+4. Disconnect the footswitch from the console.
+5. Ensure that no loose items are left on the console.
+6. Wind the power cable around the cable hook below the rear 
+handle or wrap the cord in a bundle and store it behind the 
+rear storage panel. 
+7. Connect all probes to be used while off site. Ensure that 
+probe cables are out of the way from the wheels and not 
+protruding beyond the console.
+NOTE: If more than four (4) probes are intended to be used, store 
+the additional probes securely.
+8. Store all other probes in their original cases or in soft cloth 
+or foam to prevent damage.
+9. Store sufficient gel and other essential accessories in the 
+provided space.
+10. Adjust the monitor and control panel to its lowest position 
+possible by using the release lever located underneath the 
+control panel. Make sure the keyboard is locked in place.
+11. Unlock the wheels",,,
+GLOGIQ97,PROBE_CONNECTION,"Probe,Connection",Interface,LOGIQ9,How to Connect the Probe safely?,"1. Place the probe's carrying case on a stable surface and 
+open the case.
+2. Carefully remove the probe and unwrap the probe cord.
+3. DO NOT allow the probe head to hang free. Impact to the 
+probe head could result in irreparable damage. Use the 
+integrated cable management hook to wrap the cord.
+4. Turn the connector locking handle counterclockwise.
+5. Align the connector with the probe port and carefully push 
+into place.
+6. Turn the connector locking handle clockwise to secure the 
+probe connector.
+7. Carefully position the probe cord so it is free to move and is 
+not resting on the floor.",,,
+GLOGIQ98,PROBE_CABLE,"Probe,Cable",Interface,LOGIQ9,How to handle the Probe cable?,"• Keep free from wheels
+• Do not bend the cable acutely
+• Avoid crossing cables between probes.",,,
+GLOGIQ99,PROBE_ACTIVATION,"Probe,Activation,Deactivation",interface,LOGIQ9,How to manage probe?,"       To activate the probe, select the appropriate probe from the 
+probe indicators on the Touch Panel.
+1. Probe Indicators
+The probe's default settings for the mode and selected exam are 
+used automatically.
+Deactivating the Probe
+When deactivating the probe, the probe is automatically placed 
+in standby mode.
+Disconnecting the Probe
+Probes can be disconnected at any time. However, the probe 
+should not be active when disconnecting the probe.
+• Ensure the probe is deactivated. Deactivate by selecting 
+another probe or pressing Freeze.
+• Move the probe locking handle counterclockwise.
+• Pull the probe and connector straight out of the probe port.
+• Carefully slide the probe and connector away from the 
+probe port and around the right side of the keyboard.
+• Ensure the cable is free.
+• Be sure that the probe head is clean before placing the 
+probe in its storage box or a wall hanging unit.
+Freeze Deactivate the probe: 1. Press the Freeze key.
+2. Gently wipe the excess gel from the face of the probe.
+3. Carefully slide the probe around the right side of the 
+keyboard, toward the probe holder. Ensure that the probe 
+is placed gently in the probe holder.                                                                                                                                                                                                           ",https://drive.google.com/file/d/13mNkOWXPbrziZLT503m6JvHHFkgsVUlV/view?usp=sharing,,
+GLOGIQ910,CONTROL_PANEL_MAP,Control Panel,Control,LOGIQ9,How to use Control panel?,"1. Touch panel and controls
+2. Touch Panel Brightness Control
+3. Video
+4. Audio On/Off and Volume
+5. TGC
+6. Reverse
+7. Additional Feature Keys
+8. Keyboard
+9. Mode/Gain Keys
+10. Imaging/Measurement Keys
+11. Depth
+12. Imaging Feature Keys
+13. Freeze and Print Keys
+14. Probe and Cord Holder
+15. Gel Holder",https://drive.google.com/file/d/1bvGNuuxhL67AmDIOXN4xzVCrpaAQ0zBa/view?usp=sharing,,
+GLOGIQ911,EXAM_FUNCTION_CONTROLS,"Function,controls",Control,LOGIQ9,How to manage exam function?,"1. Patient: Enters Patient screen
+2. Scan: Enters scanning mode screen
+3. Reports: Activates default report and Touch Panel of report choices.
+4. End Exam: Activates Image Management and Touch Panel with end of exam 
+options.
+5. Utility: Activates system configuration menus.
+6. Preset: Selects the application to use.
+7. Probe Indicator: Indicates and selects the probes.",https://drive.google.com/file/d/1TSp6aIohRjjK9JT_q_qM8muQN0oqrg5E/view?usp=sharing,,
+GLOGIQ912,PATIENT_SEARCH,patient care,Exam,LOGIQ9,How to search for an exsiting Patient?,"1. Press Patient to display the Patient Screen. The Patient 
+Search Screen is displayed.
+ 2. Select the search key and Location (From). Enter the search 
+string.
+3. An appropriate patient is displayed in the patient list.
+4. Select the patient and press Review.
+or
+Click ‘+’ mark on the left side of Patient ID, then all exams of 
+the patient is displayed in the patient list. Select the required 
+exam and press Active Images. The image list of the exam 
+is displayed.
+5. The selected patient exam screen is displayed.",https://drive.google.com/file/d/1LGoVwktPdyhJtcCTwl8DqOTIJLyNcFAo/view?usp=sharing,,
+GLOGIQ913,IMAGE_REVIEWING,Image,Interface,LOGIQ9,How to review the Image?,"1. Select the exam which includes the image to review.
+2. Press Active Images.
+3. Select the image and press Review.
+4. The image is displayed.",https://drive.google.com/file/d/1LGoVwktPdyhJtcCTwl8DqOTIJLyNcFAo/view?usp=sharing,,
+GLOGIQ914,INSPECTING_THE_SYSTEM,"System Care,Maintenance",Maintenance,LOGIQ9,How to Examine the System?,"• Connectors on cables for any mechanical defects.
+• Entire length of electrical and power cables for cuts or 
+abrasions.
+• Equipment for loose or missing hardware.
+• Control panel and keyboard for defects.
+• Casters for proper locking operation. 
+ To avoid electrical shock hazard, do not remove panels or 
+covers from console. This servicing must be performed by 
+qualified service personnel. Failure to do so could cause 
+serious injury.",,,
+GLOGIQ915,CLEANING_AIR_FILTER,"Air filter,Filter",Maintenance,LOGIQ9,How to Clean the Air Filter?,"Cleaning To clean the filter:
+1. Be sure to shake the filter in an area away from the system.
+2. Wash the filter in a mild soapy solution, rinse and air dry or 
+dry with a cloth.
+NOTE: Allow wet filter to dry thoroughly before installing.
+Installing 1. Slide the filter back into the system.
+               2. Secure the filter with the Velcro tab.",,,
+GLOGIQ916,SCANNING_A_PATIENT,"Patient,Scanning",Exam,LOGIQ9,How to Scan a New patient?,"1. Press Patient. 
+2. Press New Patient on the Patient menu. 
+3. A pop-up menu appears. Specify whether you want to store 
+images permanently, delete images, or go to active images. 
+4. Choose the exam category. 
+5. Verify the dataflow. 
+6. Fill in patient information. 
+7. Press Register. Enter Past OB Exam information, if 
+desired. 
+8. Select the probe from the Touch Panel to start scanning (or 
+select Exit, Escape, Scan, or Freeze).
+9. Perform the exam. 
+10. When you have completed the study, press End Exam, End 
+Current Patient, then Store All Images Permanently.",https://drive.google.com/file/d/1_9PiSQH2HuSY-ll3v8_r9YAD1sClk2rJ/view?usp=sharing,,
+GLOGIQ917,PATIENT_LIST,"Patient,List",Exam,LOGIQ9,How to enter a Patient List?,"1. Press Patient to display Patient Screen.
+2. Press New Patient to erase the current patient data.
+3. Enter the Patient ID.
+4. Enter the patient and exam information.
+5. Press Register.
+6. Repeat above steps as required. 
+Select the patient from the Patient List and press New Exam to 
+start an exam.",,,
+GLOGIQ918,ERASE_EXISTING_PATIENT,"Patient,Delete",Exam,LOGIQ9,How to delete the Existing Patient?,"1. Search and select the patient in the patient list.
+2. Press Delete.
+3. The confirmation dialog box is displayed.
+4. Press OK to delete or Cancel.",,,
+GLOGIQ919,ERASE_EXISTING_EXAM,"Exam,Delete",Exam,LOGIQ9,How to Delete the Existing Exam List?,"1. Search and select the patient in the patient list.
+2. Press Review.
+3. The patient exam screen is displayed. Select the exam 
+which you want to delete.
+4. The confirmation dialog box is displayed.
+5. Press OK to delete or Cancel.",,,
+GLOGIQ920,ERASE_EXISTING_IMAGE,"Image,Delete",Exam,LOGIQ9,How to Delete the Existing Image list?,"1. Search and select the patient in the patient list.
+2. Press Review.
+3. The patient exam screen is displayed. Select the exam 
+which include the image to delete.
+4. Press Active Images to display the image list.
+5. Select the image to delete and press Delete.
+6. The confirmation dialog box is displayed.
+7. Press Yes to delete or No to cancel.",,,
+GLOGIQ921,DEAPTH_B-MODE,Adjust,Optimizing the image,LOGIQ9,How to Adjust Depth?,"Each adjustment cycles you to the next Depth setting. Imaging 
+and display parameters adjust automatically. 
+To increase/decrease, adjust Depth.",,,
+GLOGIQ922,GAIN_B-MODE,Adjust,Optimizing the image,LOGIQ9,How to Adjust Gain?,"Gain values vary depending on the probe; they are not 
+associated with a particular position of the knob. 
+NOTE: TruAccess allows you to change the gain on a frozen image. 
+B-Mode gain is independent of M-Mode and Doppler and Color 
+Flow Gain. Changing the gain while in M-Mode does not affect 
+the B-Mode image gain. 
+To decrease/increase, rotate Gain.",,,
+GLOGIQ923,FOCUS_B-MODE,Adjust,Optimizing the image,LOGIQ9,How to Adjust Focus?,"To increase/decrease the number of focal zones, adjust Focus 
+Number. 
+NOTE: Focus Position and Focus Number share the same control. 
+Press the control to toggle between Focus Position and Focus 
+Number. 
+To move the focal zone to the near/far field, adjust Focus 
+Position. 
+You can reverse how the Focus control functions on the Utility -> 
+System -> General page.",,,
+GLOGIQ924,B_FLOW_B-MODE,Adjust,Optimizing the image,LOGIQ9,How to Adjust B flow?,"To activate/deactivate B Flow, press B Flow. Doppler Mode is 
+available while in B Flow; however, M-Mode and Color Flow/PDI 
+Modes are not available.",,,
+GLOGIQ925,SRI_B-MODE,Adjust,Optimizing the image,LOGIQ9,How to Ajust SRI?,"To activate SRI, adjust the SRI Touch Panel.",,,
+GLOGIQ926,TIC_B-MODE,Adjust,Optimizing the image,LOGIQ9,How to Analyse TIC?,"1. Scan the patient after injecting the contrast agent.
+2. Watch the agent flow through the anatomy of interest.
+3. When the desired contrast effect has been visualized, 
+freeze the image and select a range of images for analysis.
+4. Position an ROI (region of interest) on one of those images 
+where the contrast effect is visible.
+5. The system then calculates the mean pixel intensity within 
+that ROI for all frames in the user designated loop and plots 
+the resulting data as a function of time.",,,
+GLOGIQ927,ACTIVATING_TIC,"Activation,Adjust",optimizing the image,LOGIQ9,How to Activate TIC?,"1. Scan the patient in Contrast mode or select a desired cine 
+loop from the stored images.
+2. Press Freeze.
+3. TIC Analysis displays on the Cine Touch Panel.
+4. Select TIC Analysis. The TIC Analysis screen and Touch 
+Panel displays. To toggle the trackball function between TIC 
+and Scroll, press Scan Area.",https://drive.google.com/file/d/1fX4epc288CSrbIcGYe2wn1j7f1nY0Jwu/view?usp=sharing,,
+GLOGIQ928,EXAMINATION_M-MODE,"Exam,",optimizing the image,LOGIQ9,How to Examine using M-mode?,"1. Get a good B-Mode image. Survey the anatomy and place 
+the area of interest near the center of the B-Mode image. 
+2. Press M/D Cursor. 
+3. Trackball to position the mode cursor over the area that you 
+want to display in M-Mode. 
+4. Press M-Mode. 
+5. Adjust the Sweep Speed, TGC, Gain, Power Output, and 
+Focus Position, as needed. 
+6. Press Freeze to stop the M trace. 
+7. Record the trace to disk or to the hard copy device. 
+8. Press Freeze to continue imaging. 
+9. To exit, press M-Mode.",https://drive.google.com/file/d/1mLsTVZBGHU_V--hOkXdmr0A-h1Nc44Ky/view?usp=sharing,,
+GLOGIQ929,EXAMINATION_DOPPLERMODE,Exam,optimizing the image,LOGIQ9,How to Examine Using Doppler mode?,"1. Connect the appropriate probe, leaving the probes in their 
+respective holders. 
+2. Position the patient for the examination. 
+3. Press Patient. Enter the appropriate patient data using the 
+appropriate exam category and worksheet. 
+4. Select the preset, application and probe to be used.
+5. Locate the anatomy to be examined. Get a good B Mode 
+image. Refer to B-Mode section of this chapter for more 
+information. 
+6. Press M/D Cursor to display the sample volume cursor and 
+gate. 
+or
+Press PW. The PW Doppler spectrum appears and the 
+system operates in combined B+Doppler Mode. Adjust 
+Volume to adjust Doppler audio. The Doppler signal is 
+heard through the speakers. 
+7. Position the sample volume cursor by moving the Trackball
+left and right. Position the sample volume gate by moving 
+the Trackball up and down. Size the gate by clicking SV 
+Length. 
+8. Optimize the PW Doppler spectrum, as necessary. Refer to 
+the Doppler Optimization section of this chapter for more 
+information. 
+9. Press B Pause to toggle between real time B-Mode with 
+sample volume and spectral display with audio.
+10. Sample along the whole length of the vessel. Make sure that 
+the probe is parallel to flow. Listen, then look, when 
+positioning the sample volume cursor. 
+11. Press Freeze to hold the trace in memory and stop imaging. 
+Activate CINE Timeline, as necessary. See ‘Activating CINE’ 
+for more information.
+12. Perform measurements and calculations, as necessary. 
+13. Record results by pressing the appropriate print key, 
+depending on the setup of your recording devices. 
+14. Press Freeze to resume imaging. 
+15. Repeat the above procedure until all relevant flow sites have 
+been examined. 
+16. Replace the probe in its respective holder.",,,
+GLOGIQ930,DOPPLERMODE_ACTIVATION,Activation,optimizing the image,LOGIQ9,How to Activate Doppler Mode?,"To activate PW Doppler Mode, press PW. 
+The Doppler spectrum displays along with the B-Mode image. 
+The cursor changes to a Doppler cursor. 
+You can now position and size the sample volume gate to get a 
+velocity. Use Doppler Audio to listen for when the sample 
+volume gate is positioned over an area of flow.",https://drive.google.com/file/d/1OFlU1k-endQLjOf_HZrbpYIz1H29vggt/view?usp=sharing,,
+GCT52040,FAST_CAL_PROCEDURE,"Procedure,Maintain",Checking,OPTIMA CT520,How to Maintain image quality?,"1. Display the Scan Monitor screen. 
+– Clear the gantry opening.
+– Raise the table above the patient loading level.
+2. Select [Daily Prep] and [Fast Cal] to display the screen.
+– Before the start of every scan day
+– Before Cal check
+– Before system calibration
+3. The system automatically selects the Auto Scan function.
+– The system automatically selects the following sequence of scans:
+a) Mylar Window Check
+b) Cold Warmup
+c) Warmup 1
+d) Warmup 2
+e) Collimator Cal
+f) FPA Check Scans
+g) Clever Gain Calibration
+h) Fast Calibration",,,
+GCT52041,SYSTEM_PREPRATION,System,Checking,OPTIMA CT520,How to Prepare the System?,"• Clean the Accessories and check for damage.
+• Check and remove dried contrast agent from:
+– Mylar ring (around the gantry opening)
+– Detector window 
+– Table extension and cradle surfaces — especially the Patient Restraint plastic 
+channels on the table
+– Accessories (Head holders, pads and cushions, etc.)
+• Check supplies.",,,
+GCT52042,CHECK_IMAGE_SPACE,"System,Image",Checking,OPTIMA CT520,How to Check image space?,"• Check the daily schedule, and multiply the list of patients by the estimated number of 
+images each study requires.
+• Compare your estimate to the remaining 5122 images listed in the Feature Status Date 
+and Time area.
+• If your estimate exceeds the available Image Space:
+– Film any previously unfilmed studies. (Optional)
+– Transfer designated images to another suite or console. 
+– Archive and remove the oldest images from the system disk",,,
+GCT52043,SYSTEM_SHUTDOWN,"System,Shutdown",Power,OPTIMA CT520,How to Shutdown the system?,"• On Display Monitor, select the [Shutdown] icon. 
+Dialog is posted
+• Select Shutdown and click OK. Dialog will be posted
+– The system is shutting down please wait...
+• When the system is down a message is posted
+– System Halted
+• Press the POWER button on computer panel.
+• To start the system from the System Halted prompt, power cycle the console.
+• Dialog is posted on the display monitor
+– The system is coming up please wait...
+• A dialog box will be posted
+– Attention
+OC is initializing please wait...
+• When this dialog disappears the system is ready to use.
+• If your system has the HIPAA login enabled, you are required to login to the system.
+• To turn off main disconnect control (MDC) or A1.
+• Shutdown the system.",,,
+GCT52044,LASER_LIGHT_ACCURACY,"Light,Laser,Accuracy",Test,OPTIMA CT520,what are Procedure test for internal or external laser light Accuracy?,"1. Remove cradle pad. 
+2. Put the wire with the box on the cradle and use the level to position the box as horizontal 
+as possible in both z and x directions. 
+3. Align the wire with the internal laser light field and make it parallel to the scan plane, 
+and use coronal Laser light to center the wire in the up/down direction. 
+4. Landmark the wire using internal landmark. 
+5. Scan the wire using the scan protocol as listed in Table 13-1. 
+6. For the external laser light accuracy, move the cradle out and align the wire with the 
+external laser light field, and use coronal laser light to center the wire in the up/down 
+direction. 
+7. Landmark the wire using external landmark. 
+8. Scan the wire using the protocol as listed in the table",,,
+GCT52045,TOMOGRAPHIC_ACCURACY,Accuracy,Test,OPTIMA CT520,What are Procedure test for preview Tomographic Accuracy,"1. Take a scout scan as listed in Table 13-2.
+2. Scan the wire using the helical protocol as listed in Table 13-2.",,,
+GCT52046,SAGITTAL_AND_CORONAL_LIGHT_ACCURACY,Accuracy,Test,OPTIMA CT520,What are procedure test for sagittal and coronal light accuracy?,"1. Remove the cradle pad. 
+2. Put the wire with the box flat on the cradle and use the level to position the box as 
+horizontal as possible in both z and x direction. 
+3. Position the wire along the iso center using both sagittal (left/right) and coronal
+(up/down) laser light, and for this test, the wire should be perpendicular to the scan 
+plane. 
+4. Landmark the wire using internal landmark. 
+5. Scan the wire using the protocol as listed in Table 13-3.",,,
+GCT52047,SET_DOSE_ADMINISTRATOR_ROLE,"Dose,Administrator,SEt",Check,OPTIMA CT520,How to set Dose Administrator role?,"1. Click Dose Check Management from Protocol Management. 
+2. Click User Admin Tool . 
+3. From the EA3 Administration screen, type your Username and Password. Consult your 
+service engineer or Application Representative for user name and password. 
+4. From the Local Users tab, click Add Local User. 
+5. From the pop-up panel, type information for each of the following: 
+– A unique user ID 
+– Full Name 
+– Password 
+– Confirm Password 6. Click Add User. 
+7. From the Groups tab, click Add Local Group. 
+8. From the Add Local Group window, type and enter a unique group name.9. Click Add Group.
+– The group is highlighted in the Local Groups list box. All information and buttons in 
+the center panel refer to the highlighted group.
+10. To change a group's roles, select the Dose Admin Role option box and click Apply Roles.
+– A green label confirms the applied roles. 
+– An error message box displays if it is unsuccessful.",,,
+GCT52048,SET_AV_EXCEEDING_USER_ROLE,"User,Set",Check,OPTIMA CT520,How to set AV exceeding user role?,"1. Click Dose Check Management from Protocol Management. 
+2. Click User Admin Tool . 
+3. From the EA3 Administration screen, type your Username and Password. Consult your 
+service engineer or Application Representative for user name and password. 
+4. From the Local Users tab, click Add Local User. 
+5. From the pop-up panel, type information for each of the following: 
+– A unique user ID 
+– Full Name 
+– Password 
+– Confirm Password 
+6. Click Add User. 
+7. From the Groups tab, click Add Local Group.
+8. From the Add Local Group window, type and enter a unique group name.
+9.Click Add Group",,,
+GCT52049,PROTOCOL_CHANGE_CONTROL,"Change,Control",Interface,OPTIMA CT520,How to change Protocol using Protocol Change Control?,"1. Click Dose Check Management from Protocol Management. 
+2. Click Logon Name. 
+3. Type the user name. 
+4. Click Password. 
+5. Type the User password.",,,
+GCT52050,PROTOCOLS_WITH_NOTIFICATION_VALUES,Notification,Interface,OPTIMA CT520,How to build protocols with Notification Values?,"1. From the scan monitor, click the Protocol Management icon . 
+2. On the Auto Voice and Protocol Management screen, click Protocol Management. 
+3. On the Protocol Selection screen, click User. 
+4. On the User tab click an Anatomical area. 
+5. In the Anatomical Area click on a protocol. 
+6. Click Next Series to go to the first non-scout series in the protocol. 
+7. From the Dose Information area click Set Up. 
+8. Type the desired CTDIvol or DLP NV value by group. 
+– Only one CTDIvol or DLP value can be set for SmartPrep scan groups. 
+9. Click Info to return to the Dose Information display. 
+10. Click Accept to save the protocol parameters. 
+",,,
+GCT52051,ENERGY_SAVING_MODE,Energy,Power,OPTIMA CT520,How to turn on energy saving mode?,"1. Disconnect any USB devices from the USB drive before performing Energy Saving mode.
+2. From the display monitor, click Shutdown icon.
+A pop-up attention box appears.
+3. From the Attention Shutdown pop-up screen, click Energy Saving Mode
+Getting Started
+4. Click OK.
+Energy Saving Mode pop up appears:
+5. From the Energy Saving Mode pop up, click to change the start up date if needed.
+6. Click to change the start up hour if needed. Use up/down arrows to set values.
+7. Click to change the start up minutes if needed. Use up/down arrows to set values.
+8. Click OK to turn on energy saving mode.
+9. The power off prompt is displayed. Then depress the power switch on the front of the 
+operator console to the off position.",,,
+GCT52052,SET_UP_ENERGY_SAVING_SCHEDULE,Energy,Power,OPTIMA CT520,How to set up an energy saving schedule?,"1. From the display monitor, click Shutdown icon.
+2. From the Attention Shutdown pop-up screen, click Energy Saving Mode.
+3. Click OK.
+4. Click Schedule to display the schedule set up screen.
+Energy Saving Mode Schedule Setup pop up appears:
+5. Set the working days:
+6. Click Select All to select all days. or Click each individual day to be desired.
+7. Click to change the start up hour.
+8. Click to change the start up minutes.
+9. Click Accept to set the schedule.",,,
+GCT52053,ADD_A_LOCAL_USER,Add,Interface,OPTIMA CT520,How to Add a local User?,"1. Click [Add Local User].  When this button is clicked a popup panel is displayed.
+2. Enter the new User ID (which must be unique).
+3. Enter a Full Name.
+4. Enter a Password.
+5. Enter the Confirmed Password.  If any errors are encountered, you will receive an error messagebox. If you receive the 
+error messagebox, changes were not committed to the database, and you can 
+correct your errors and try again. Possible errors that can be encountered when 
+adding a user are: 
+– User ID already exists in the local user database (Choose a different unique 
+username) 
+– Password does not meet the minimum length requirements (Choose a longer 
+password) 
+– Password and Confirm Password box do not match (Make sure the passwords 
+match) 
+6. Click [Add User].",,,
+GCT52054,CHANGE_A_USER_PASSWORD,Change,Interface,OPTIMA CT520,How to change a user password?,"1. Select User.
+2. Click [Change Password]. 
+ This brings up a popup panel with two textboxes for the password.
+3. Make changes to the password.
+4. Click [Confirm Change]. 
+ If you do not want to make the change, simply click Cancel. 
+ If the password doesn't meet the minimum length requirements, you will receive an 
+error messagebox. If this occurs, your changes were not saved. Simply make the 
+necessary corrections, and click Confirm Change again.",,,
+GCT52055,REMOVE_LOCAL_USER,"Change,User",Interface,OPTIMA CT520,How to remove a local user?,"1. Select User.
+2. Click [Remove User].
+3. Click [Confirm Removal].  If you do not want to make the change, simply click the Cancel button.",,,
+GCT52056,ADD_A_LOCAL_GROUP,"Add,Group",Interface,OPTIMA CT520,How to Add a local Group?,"1. Click [Add Local Group].  When this button is clicked a popup panel is displayed.
+2. Enter the new group's name (which must be unique).
+ If any errors are encountered, you will receive an error message box. If you receive 
+the error message box, changes were not saved to the database, and you can 
+correct your errors and try again. Possible errors that can be encountered when 
+adding a group are: 
+– Group name already exists in the database 
+– Application session timeout 
+ Once a local group is added, it is automatically highlighted in the Local Groups list 
+box on the left-hand site, and it is highlighted. Once a group is highlighted, all 
+information and buttons in the center panel (i.e. Group Name, Remove Group Button, 
+Roles checkboxes, Apply Roles button, Group Members list box, Add Membership 
+button, and Remove Membership button) refer to that group.
+3. Click [Add Group].",,,
+GCT52057,PERFORM_AN_EXAM_SPLIT_AFTER_SCAN,Exam,Exam,OPTIMA CT520,How to Perform an exam split after scan is complete?,"1. Complete an exam with multiple Requested Procedure ID or Accession Numbers have 
+been selected.
+2. Select the ImageWorks desktop.
+3. Click on the exam you wish to split.
+4. Select the series to split.
+5. Click [Exam Split] from the side of the Browser.
+ The Exam Split menu will appear with the selected images displayed in the upper 
+viewports. The system may display every image or skip some images depending on 
+the total number of images selected.
+ If the exam you selected does not have Multiple Procedures, a dialog will be posted 
+and Exam Split will exit. 
+ You must select all procedures you wish to split up front when scanning is done. You 
+cannot add them after the fact.
+6. Select the images to be grouped together for a procedure.
+ Click to select first image and shift and click on the last image for the desired range 
+of images per procedure code. 
+7. Select desired Requested Procedure ID or Accession Number from the available list 
+which reflects the procedures selected from Patient Schedule for New Patient.
+ This is from the list of exams registered to this patient from ConnectPro..
+8. Select the receiving host from the Host Config pull down.
+ Host Selection will show GSPS if configured in VES mode and HES if configured in HES 
+mode.
+9. Adjust the Window Level if needed.
+ Set the window/level for the images using the mouse or W/L preference buttons.
+10. Click [Add].  The images will be added to the procedure list.
+11. Hilight the procedure or procedures you wish to send and click [Send].  Repeat until you have sent all procedures you have images added to. 
+ The images are transferred to the desired host.
+ If the system is configured for VES, a GSPS object is sent to the remote station. If HES 
+mode is configured, a new series of images will be sent to the remote hosts.
+ You can select more than one procedure if you are sending them to the same 
+destination.
+ You can select the Browser to exit Exam Split before the images have completed 
+transferring. A pop up message will display after the transfer is complete.",,,
+GCT52058,BIOPSY_MODE,Biopsy,Interface,OPTIMA CT520,How to use the Biopsy mode?,"1. From the view/edit screen, click [Biopsy Rx].
+2. Set the Biopsy Reference.
+3. Enter Biopsy Location or click [Get Alignment Light Location].
+4. Enter the Number of Images to be acquired for each pass.
+5. Enter Gantry Tilt, if necessary.
+6. Click [Thickness].
+7. Enter the Image Interval.
+8. Click [Confirm Biopsy Rx] or [Cancel].",,,
+GCT52059,ADD_A_FILTER,"Filter,Add",Image manage,OPTIMA CT520,How to Add filter to the available filter?,"1. From the display monitor, click the ImageWorks icon .
+2. Select a remote host from the Source menu.
+3. From the Patient List controls, click the Filter icon to open the Filter Data screen.
+4. Enter all desired fields. In the Filter Name field, enter a descriptive name for the filter.
+5. Click Save.
+6. Click OK to save the filter.",,,
+GCT52060,FILTER_THE_LIST,"List,Filter",Image manage,OPTIMA CT520,How to filter the list?,"1. From the display monitor, click the ImageWorks icon.
+2. Select a remote host from the Source menu.
+3. Select a filter from the Available Filters.
+4. Click OK.",,,
+GCT52061,REMOVE_A_PATIENT_LIST_FILTER,"Filter,LIst",Image manage,OPTIMA CT520,How to remove patient list filter?,"1. From the display monitor, click the ImageWorks icon .
+2. From the Source menu, select a remote host.
+3. From the Patient List controls, click the Filter icon to open the Filter Data screen.
+4. From the Available filters menu, select a filter.
+5. Click Remove.
+6. Click Yes to remove the filter.",,,
+GCT52062,UPDATE_PATIENT_LIST,"Patient,List",Image manage,OPTIMA CT520,How to Update the patient list?,"1. From the display monitor, click the ImageWorks icon .
+2. From the Patient List controls, click the Refresh icon .",,,
+GCT52063,FIND_AN_EXAM,Exam,Image manage,OPTIMA CT520,How to find an exam?,"1. From the display monitor, click the ImageWorks icon .
+2. In the Exam area, click Find and select a category. For example, search an exam by 
+Exam.
+3. In the Find text box, type the exam number you want to locate. For example, 121.",,,
+GCT52064,ZOOM_THE_IMAGES,Images,Image manage,OPTIMA CT520,How to zoom the images?,"1. From the display monitor, click the ImageWorks icon .
+2. Click an image in the Image List area.
+3. Adjust the zoom.",,,
+GCT52065,SCROLL_THE_IMAGES,Images,Image manage,OPTIMA CT520,How to scroll the images?,"1. From the display monitor, click the ImageWorks icon .
+2. Click an image in the Image List area.
+3. Adjust the scroll.",,,
+GCT52066,LOCAL_DB_RETRIEVE_IMAGES,Images,Image manage,OPTIMA CT520,How to Restore the images to our system from a remote host?,"1. From the display monitor, click the ImageWorks icon .
+2. Click Source and select a remote Archive host.
+3. Optional: Refine the remote Patient List.
+4. From the remote Patient List, select the exam, series, or images you want to retrieve.
+5. In the Destinations area of the Patient List, click Local DB to begin the restore process.
+6. View the archive or network status in the Feature Status area to view the state of the 
+images as they are transferred to the local database.",,,
+GCT52067,ARCHIEVE_A_GSPS_SERIES,Images,Image manage,OPTIMA CT520,"How to archive or network a GSPS1 series when you have saved images with the 
+Save State function.?","1. Press Ctrl and simultaneously select the source series and the associated GSPS series 
+from the Patient List.
+2. To archive or network, continue with the Manual archive/network procedure.",,,
+GCT52068,VIEW_THE_BACKLOG,Images,Image manage,OPTIMA CT520,"How to  view a backlog of archive or network activity or to delete an archive or 
+network job?","1. From the display monitor, click the ImageWorks icon .
+2. Click the Job Management icon .
+3. From the Job Management screen, click Show Jobs and select an option to refine the 
+lists.
+4. From the Registered Jobs list, select the jobs you would like to change.
+5. Choose the desired job action:
+6. Click Close.",,,
+GCT52069,DETACH_MEDIA,"Images,CD,DVD",Image manage,OPTIMA CT520,"How to detach a CD, DVD, or USB media device?","1. Make sure a CD, DVD, or USB is inserted in the appropriate drive.
+2. Check the Archive/Network backlog to verify that all image transfer from the device is 
+complete.
+3. From the display monitor, click the ImageWorks icon .
+4. Click Tools > Detach Media.
+5. From the Detach Media screen, select the media to detach from the menu.
+6. Click Detach and wait for the ""Media Detached"" message before ejecting the device 
+from the drive.
+7. Click Close to exit.",,,
+GCT52070,CHECK_NETWORK_HISTORY,Image,Image manage,OPTIMA CT520,How to Check the network history?,"1. From the display monitor, click the ImageWorks icon .
+2. Click the Job Management icon .
+3. From the Job Management screen, click the Network History tab.
+4. Look through the log to find the exam number of the network history you wish to see.
+5. Type a specific exam/series/image number into the Search ESI or Host field.
+6. Click the Refresh icon to update the network history log.
+7. Click Close.",,,
+GCT52071,SAVE_IMAGES,Image,Image manage,OPTIMA CT520,How to  save images from your system to a CD/DVD or USB device?,"1. From the Data Apps list, click CD/DVD/USB.
+2. From the Media Creator screen , select the media type from the Media menu.
+3. To save a Viewer with the images, select Include Image Viewer.
+4. Select the desired exams or series from the Patient List.
+5. From the Media Creator screen, click Add.
+6. Optional: Clear exams or series from the Media Creator list.
+7. Click the Copy icon to start the recording process.
+8. Once the recording is finished, click Close icon .
+9. To view the Media Creator screen again, click CD/DVD/USB from the Data Apps list.
+10. When the contents have been burned to the media, a message posts in the Message 
+area. It is now safe to remove the CD/DVD or USB.
+11. Click the Eject icon to remove the media from the drive.",,,
+GCT52072,RESTORE_IMAGES,Image,Image manage,OPTIMA CT520,How to restore images from a CD/DVD or USB device to your system?,"1. Place a CD-R or DVD-R in the CD/DVD external drive or place a USB device into one of 
+the USB drives. Wait until the drive light turns off, which is an indication that the CD-R 
+or DVD-R is spinning up to speed.
+2. From the display monitor, click the ImageWorks icon .
+3. From the header area, click Source and select the drive that has the CD/DVD or USB 
+device in it.
+4. From the Patient List, select the exam/series/images you want to restore.
+5. In the Destinations area of the Patient List, click Local DB to begin the restore process.
+6. To view the restore process status, see the View the backlog/queue procedure.
+7. When the restore process is finished, indicated by a messa",,,
+GCT52073,VIEW_IMAGES_ON_PC,Image,Image manage,OPTIMA CT520,How to  view images from a CD/DVD inserted in your PC?,"1. Load a recorded CD-R or DVD-R into the drive of your PC or laptop running Windows 
+XP, Windows Vista, or Windows 7 operating system and containing Java 1.5 or higher 
+versions.
+2. Click Accept to the license agreement.
+3. From the DataSelector, select an exam and wait until the data is loaded.
+4. Select a series to view.
+5. Use the Media Viewer image controls, located at the top of the Media Viewer, to 
+manipulate the images.",,,
+GCT52074,COMPOSE_A_REPORT,Image,Image manage,OPTIMA CT520,How to compose a report?,"1. From the display monitor, click the ImageWorks icon .
+2. From the Patient List, select the series you want to export.
+3. From the Data Apps list, click Data Export.
+4. Review the images in the Compose image viewport.
+5. Click the Conversion Format menu and select an image format for the currently 
+selected data set that is compatible with the movie player on your PC or laptop.
+6. In the Image Range Selection area, choose your desired image range.
+7. Move the Compression Factor slider to select a value.
+8. In the Annotation area, choose your desired annotation display format.
+9. Once you are satisfied with the image appearance (W/L, zoom, scroll), select 
+Propagate Image Operations.
+10. Type a name for both the report and the folder (use no spaces or characters other 
+than alpha numeric).
+11. Click Add to Report.
+12. To add another data set to the report, repeat these steps.
+13. Click the Export tab to export the report (for details see the Export a report procedure) 
+or click Quit to exit the Data Export application.",,,
+GCT52075,VIEW_A_REPORT_ON_PC,Image,Image manage,OPTIMA CT520,How to view a report on PC?,"1. Place the CD in the CD drive of a PC or laptop running Windows 2000 or XP.
+2. The CD launches automatically.
+3. When finished viewing the report, select File > Close to close the Internet browser.
+4. Remove the CD from the drive and store it.",,,
+GCT52076,EDIT_PATIENT_DATA,Image,Image manage,OPTIMA CT520,How to edit patient data?,"1. From the display monitor, click the ImageWorks icon.
+2. From the Patient List, select the exam to be edited.
+3. From the Data Apps list, click Edit Patient.
+4. From the Edit Patient Applications screen, click Edit Patient Data.
+5. Read the cautions and then, click Accept to continue.
+6. From the Edit Patient Data screen, complete the text fields.
+7. Click Accept when you are satisfied with the changes.
+8. Click Accept to the confirmation prompt.",,,
+GCT52077,REORDER_THE_DATA_APP_LIST,Image,Image manage,OPTIMA CT520,"How to change the order of the applications on the Data Apps list so that the 
+most frequently used applications are at the top of the list?","1. From the display monitor, click the ImageWorks icon .
+2. From the ImageWorks desktop , click Tools > Applications Reorder.
+3. On the Application Selection screen, click the item that you want to move in Data Apps 
+list.
+4. Click the up/down arrows to move the item to the new location.
+5. Once the items in each list are in the desired order, click OK.
+6. Click OK to the acknowledgement prompt.",,,
+GCT52078,EXPORT_PROTOCOLS,Image,Image manage,OPTIMA CT520,"How to  export user protocols to a CD so that you can load the CD on a PC and 
+print. The format is excel?","1. From the display monitor, click ImageWorks icon.
+2. From the Tool Chest screen, click Export Protocols.
+3. The CD/DVD tray opens and the system prompts you to place a blank CD media in the 
+CD/DVD drive.
+4. Place a CD inserted in the tray.
+5. Click OK to close the drive and initiate the save process.
+– The User adult and pediatric protocols are saved.
+6. The CD tray opens automatically when the save is complete. Remove the CD and click 
+OK to the message prompt, which closes the tray.",,,
+GCT52079,SET_SCREENSAVER_TIMEOUT,"Image,Screensaver",Image manage,OPTIMA CT520,"How to  set the time period for the scan and display monitor screen saver to
+start?","1. From the display monitor, click the Service icon.
+2. From the Service browser, click the Service browser title bar to move it so you can see 
+the service Tool Chest.
+3. From the Tool Chest, click Screensaver Time.
+4. From the Set Screensaver Timeout screen, click and drag the slider to adjust the time 
+that the screensaver mode starts to between 5 to 60 minutes.
+– Click on either side of the slider grab bar to increment in steps of 1 minute.
+– The default is 30 minutes.
+5. Click Save.",,,
+GCT52080,CHANGE_THE_ORIENTATION_OF_IMAGE,Image,Image manage,OPTIMA CT520,"How to flip an image left to right, top to bottom, or both at the same time. You 
+can also rotate to the right or to the left 90 degrees?","1. Put the image of interest in primary focus.
+2. Click [Routine Display].
+3. Click [Flip/Rotate].
+4. Click [FLR] to flip image left to right, click [FTB] to flip image top to bottom or click [FTB/FLR] to flip image both top to bottom and left to right.
+5. Click [RR] to rotate image to the right (clockwise) or click [RL] to rotate image to the left 
+(counter-clockwise).
+6. Click [Cancel] to cancel out of flip/rotate pop up window.
+7. Click [Display Normal] to return images to their original orientation.",,,
+GCT52081,MAKE_IMAGES_SHARPER,Image,Image manage,OPTIMA CT520,How to make Images Sharper or Smoother?,"1. Put the image of interest in primary focus.
+2. Click [Routine Display].
+3. Click [Proview].
+4. Click [E1, E2, E21, E22, E23, or E3] for edge enhancement.
+5. Click [Lung] for lung enhancement.
+6. Click [S1,S11, S2, S21, or S3] for smoothing.
+7. Click [Off] to turn enhancement off.
+8. Click [Cancel] to cancel out of Proview pop up window.",,,
+GCT52082,IMPROVE_THE_BRAIN_INTERFACE,Image,Image manage,OPTIMA CT520,How to improve the Brain/Bone Interface?,"1. Put the image of interest in primary focus.
+2. Click [Routine Display].
+3. Click [GSE].
+4. Click [G1, G2 or G3].
+5. Click [Off] to turn enhancement off.
+6. Click [Cancel] to cancel out of GSE pop up window.",,,
+GCT52083,RESTORE_AN_IMAGE_TO_ITS_ORIGINAL_STATE,Image,Image manage,OPTIMA CT520,How to Restore an Image to its Original State?,"1. Put the image of interest in primary focus.
+2. Click [Routine Display].
+3. Click [Display Normal].",,,
+GCT52084,REVERSE_THE_VIDEO,Video,Image manage,OPTIMA CT520,How to  Reverse the Video?,"1. Put the image of interest in primary focus.
+2. Click [Display Preferences].
+3. Click [Inverse Video].
+4. Click [Inverse Video] again to turn feature off.",,,
+GCT52085,APPLY_MATTES_TO_AN_IMAGE,Image,Image manage,OPTIMA CT520,How to Apply Mattes to an Image?,"1. Put the image of interest in primary focus.
+2. On the Accelerator Line, type ematte for an elliptical matte or rmatte for a rectangular 
+matte and click Enter.",,,
+GCT52086,CREATE_A_GSPS,Image,Image manage,OPTIMA CT520,How to create GSPS?,"1. Put the image of interest in primary focus.
+2. Adjust the image to the desired presentation.
+a) Set WW and WL
+b) Image Roam
+c) Image Zoom
+d) Image Flip
+e) Set rotate
+f) Add graphics such as ROI, Measure distance and Image annotation
+3. On the Accelerator Line, type ss and click Enter.",,,
+GCT52087,VIEW_A_GSPS,Image,Image manage,OPTIMA CT520,How to  View a Gray Scale Presentation State Object (GSPS)?,"1. Hilight the GSPS object in the Browser
+2. Select [Viewer].
+3. Use the pull down to change the viewer format.
+4. Select the ± CPI object buttons to view additional GSPS objects in the series.",,,
+GCT52088,NEURO_3D_IMAGES,Image,Image manage,OPTIMA CT520,How to Process Neuro 3D Images?,"1. Click [Neuro 3D].
+2. Click [Low], [Med], or [High].
+3. Click [Go].
+4. Click the door icon to close the window when the filtering is complete.",,,
+GCT52089,TYPE_TEXT_ON_THE_IMAGE,Text,Image manage,OPTIMA CT520,How to Type Text on the Image?,"1. Put the image that you want to type annotation on into primary focus.
+2. Click [Routine Display].
+3. Click [User Annotation].
+4. Place mouse cursor over the image you are typing text onto.
+5. Type the desired text and it appears in the blue box.
+6. Adjust the box and attached arrow as needed.
+7. Click [User Annotation] again to add additional annotation.
+8. Click [Erase] to erase the primary (blue) annotation.",,,
+GCT52090,DISPLAY_THE_EXAM_INFORMATION,"Test,Exam",Image manage,OPTIMA CT520,How to Display the Exam Information?,"1. Click [Routine Display].
+2. Click [Exam Page].
+3. Click [Manual Film] or [Auto Film] to select the film composer you would like the exam 
+page to go to.
+4. Click [Quit].",,,
+GCT52091,SAVE_AN_IMAGE_SCREEN,"Screen,Image",Image manage,OPTIMA CT520,How to Save an Image Screen?,"1. Click [Routine Display].
+2. Click [Screen Save].",,,
+GLOGIQ492,MONITOR_ASSY,"Assy,Disassembly",Renewal Parts,LOGIQ 400,How to Monitor Assy Disassembly?,"1. Turn OFF the system.
+2. Remove the CRT Filter. Refer to 6–2–6 on page 6–79.
+3. Unscrew four hexagonal screws ( 1 – 4 ) located beneath the horizontal part of the Neck Assy.
+4. Remove the cover located at the bottom of the Neck Assy.
+5. Unscrew two screws ( 5 and 6 ) and remove the plate fixing the cables.
+6. Disconnect the four connectors ( 7 – 10 ).
+7. Remove the screw cap located at position ( 11 ).
+8. Loosen one screw ( 11 ) and pull the Monitor Assy upwards.",,,
+GLOGIQ493,MONITOR_COVER_SET,"Assy,Disassembly",Renewal Parts,LOGIQ 400,How to Monitor cover set Disassembly?,"1. Turn OFF the system.
+2. Unscrew three screws ( 1 – 3 ).
+3. Remove the Monitor Cover L Assy (FRU 104).
+4. Unscrew three screws ( 4 – 6 ).
+5. Remove the Monitor Cover R Assy (FRU 105).
+6. Remove the Monitor Cover Top Assy (FRU 106).
+7. Push and open the Escutcheon Front Door (FRU 107).
+8. Pull the two caps ( 7 , FRU 108: CRT Cap Set) out.
+9. Loosen four screws ( 8 – 11 ).
+10. Disconnect one connector of task lamp switch.
+11. Remove the Escutcheon Assy (FRU 102).",,,
+GLOGIQ494,ESCUTUHEON_FRONT_DOOR,Disassembly,Renewal Parts,LOGIQ 400,How to Escutcheon Front Door removal?,"1. Turn OFF the system.
+2. Pull out the Escutcheon Front Door (FRU 107) from the Escutcheon Assy (FRU 102)",,,
+GLOGIQ495,CRT_CAP_SET,Disassembly,Renewal Parts,LOGIQ 400,How to CRT Cap set removal?,"1. Turn OFF the system.
+2. Remove the Escutcheon Front Door (FRU 107). 
+3. Pull out two CRT Caps from the front side of the Monitor Assy.",,,
+GLOGIQ496,CRT_FILTER_REMOVAL,Disassembly,Renewal Parts,LOGIQ 400,How to CRT filter Removal?,"1. Turn OFF the system.
+2. Slide the left side filter clamp leftwards and pull it out.
+3. Slide the right side filter clamp rightwards and pull it out.
+4. Remove the CRT Filter.",,,
+GLOGIQ497,ACCESSORY_ASSY,Disassembly,Renewal Parts,LOGIQ 400,How to Accessory Assy Disassembly?,"1. Turn OFF the system.
+2. Remove the Monitor Cover Set (FRU 101). 
+3. Unscrew five screws ( 1 – 5 ).
+4. Disconnect two connectors ( 6 and 7 ).
+5. Remove the Accessory Assy.",,,
+GLOGIQ498,SPEAKER_ASSY_DISASSEMBLY,Disassembly,Renewal Parts,LOGIQ 400,How to Speaker assy Disassembly?,"1. Turn OFF the system.
+2. Remove the Monitor Cover L Assy (FRU 104) and Monitor Cover R Assy (FRU 105). Refer to 6–2–2 on page
+6–72.
+3. Cut off the tie wrap fixing the CRT Cable Set (FRU 116) to the speaker.
+4. Unscrew two screws ( 1 and 2 ).
+5. Loosen two screws ( 3 and 4 ).
+6. Disconnect one connector ( 5 ) from the back side of monitor.
+7. Remove the speaker at the left.
+8. Unscrew two screws ( 6 and 7 ).
+9. Loosen two screws ( 8 and 9 ).
+10. Disconnect one connector ( 10 ) from the back side of monitor.
+11. Remove the speaker at the right.",,,
+GLOGIQ499,CRT_LAMP_ASSY_DISASSEMBLY,Disassembly,Renewal Parts,LOGIQ 400,How to CRT lamp assy Disassembly?,"1. Turn OFF the system.
+2. Remove the Monitor Cover L Assy (FRU 104) and Monitor Cover R Assy (FRU 105). Refer to 6–2–2 on page
+6–72.
+3. Turn the CRT lamp counterclockwise and remove it.
+4. Unscrew two screws ( 1 and 2 ).
+5. Disconnect one connector ( 3 ).
+6. Remove the CRT Lamp Assy.",,,
+GLOGIQ4100,CRT_ASSY_DISASSEMBLY,Disassembly,Renewal Parts,LOGIQ 400,How to CRT Assy Disassembly?,"1. Turn OFF the system.
+2. Remove the Monitor Assy (FRU 100). Refer to 6–2–1 on page 6–70.
+3. Remove the Monitor Cover Set ( 1 : FRU 101). Refer to 6–2–2 on page 6–72.
+4. Remove the Speaker Assy ( 2 : FRU 112). Refer to 6–2–8 on page 6–82.
+5. Remove the tilt mechanism.",,,
+GLOGIQ4101,MONITOR_ASSY_NTSC_DISASSEMBLY,Disassembly,Renewal Parts,LOGIQ 400,How to Monitor Assy NTSC Disassembly?,"1. Turn OFF the system.
+2. Unscrew four hexagonal screws ( 1 – 4 ) located beneath the horizontal part of the Neck Assy.
+3. Remove the cover located at the bottom of the Neck Assy.
+4. Unscrew two screws ( 5 and 6 ) and remove the plate fixing the cables.
+5. Disconnect the three connectors ( 7 – 9 ).
+6. Remove two screw caps located at position ( 10 and 11 ).
+7. Loosen two screws ( 10 and 11 ) and pull the Monitor Assy upwards.",,,
+GLOGIQ4102,MONITOR_COVER_DISASSEMBLY,Disassembly,Renewal Parts,LOGIQ 400,How to Monitor Cover Disassembly?,"1. Turn OFF the system.
+2. Remove the Monitor Bottom Assy. Refer to 6–2–17 on page 6–98.
+3. Unscrew four screws ( 1 – 4 ).
+4. Remove the Monitor Cover (FRU 152).",,,
+GLOGIQ4103,NECK_ASSY_DISASSEMBLY,Disassembly,Renewal Parts,LOGIQ 400,How to Neck Assy Disassembly?,"1. Turn OFF the system and unplug the unit.
+2. Push down the Up/Down Release Button located on the Neck Assy, lift the monitor up and set the monitor to the
+highest position.
+3. Remove the Monitor Assy (FRU No. 100), Monitor Assy NTSC (FRU No. 150) or Monitor Assy PAL (FRU No.
+151). Refer to 6–2–1 on page 6–70 or 6–2–12 on page 6–90.
+4. Remove the Neck Space Plate.
+5. Remove the Front Base Cover (FRU 305). Refer to 6–2–35 on page 6–131.
+6. Remove the Side Cover Right (FRU 302). Refer to 6–2–32 on page 6–128.. 
+7. Remove the Side Cover Left (FRU 301). Refer to 6–2–31 on page 6–127.
+8. Remove the Rear Cover (FRU 303). Refer to 6–2–33 on page 6–129.
+9. Remove the Top Cover (FRU 308). Refer to 6–2–38 on page 6–135.
+10. Remove the Rear CONN Panel Assy (FRU 501). Refer to 6–2–61 on page 6–166.
+11. Disconnect one connector ( 1 ).
+12. Disconnect two connectors ( 2 and 3 ) from the P25A and P26A connectors on Mother Board.
+13. Disconnect one flat cable ( 4 ).
+14. Cut off the tie wraps to bind cables.
+15. Remove thirteen hexagonal bolts ( 5 – 17 ).
+16. Remove the Neck Assy from console.",,,
+GLOGIQ4104,NECK_SPACE_PLATE,Disassembly,Renewal Parts,LOGIQ 400,How to Disassembly Neck Space Plate?,"1. Turn OFF the system.
+2. Remove the Monitor Assy (FRU No. 100), Monitor Assy NTSC (FRU No. 150) or Monitor Assy PAL (FRU No.
+151). Refer to 6–2–1 on page 6–70 or 6–2–12 on page 6–90.
+3. Remove the Neck Space Plate 2. Refer to 6–2–29 on page 6–122. The Neck Space Plate 2 is used only for the
+B/W monitor console. In case of color monitor console, skip this step.
+4. Remove the Rotation Spacer. Refer to 6–2–30 on page 6–124. The Rotation Spacer is used only for the B/W
+monitor console. In case of color monitor console, skip this step.
+5. Remove the Neck Space Plate.",,,
+GLOGIQ4105,ROTATION_SPACER,Disassembly,Renewal Parts,LOGIQ 400,How to Disassemble Rotation spacer?,"1. Turn OFF the system.
+2. Remove the Monitor Assy NTSC (FRU No. 150) or Monitor Assy PAL (FRU No. 151). Refer to 6–2–12 on page
+6–90.
+3. Unscrew one screw ( 1 ).
+4. Remove the Rotation Spacer.",,,
+GLOGIQ4106,SIDE_COVER_LEFT,Disassembly,Renewal Parts,LOGIQ 400,How to Disassemble Side Cover left?,"1. Turn OFF the system.
+2. Remove two screw caps (located at 3 and 4 ) and unscrew four screws ( 1 – 4 ).
+3. Remove the Side Cover Left.",,,
+GLOGIQ4107,SIDE_COVER_RIGHT,Disassembly,Renewal Parts,LOGIQ 400,How to Disassemble Side cover Right?,"1. Turn OFF the system.
+2. Remove the Front Base Cover (FRU No. 305). Refer to 6–2–35 on page 6–131.
+3. Remove the two screw caps (located at 3 and 4 ) and unscrew five screws ( 1 – 55
+).
+4. Remove the Rear Door Assy. Refer to 6–2–34 on page 6–130.
+5. Remove the Side Cover Right.",,,
+GLOGIQ4108,REAR_COVER,Disassembly,Renewal Parts,LOGIQ 400,How to Disassemble Rear Cover?,"1. Turn OFF the system.
+2. Pull the Air Filter out.
+3. Remove the Rear Door Assy. Refer to 6–2–34 on page 6–130.
+4. Unscrew eight screws ( 1 – 8 ).
+5. Remove the Rear Cover.",,,
+GLOGIQ4109,REAR_DOOR_ASSY,Disassembly,Renewal Parts,LOGIQ 400,How to Disassemble rear door assy?,"1. Turn OFF the system.
+2. Turn the knob on the Rear Door Assy counterclockwise.
+3. Remove the Rear Door Assy.",,,
+GLOGIQ4110,KEYBOARD_BOTTOM_COVER_DISASSEMBLE,Disassembly,Renewal Parts,LOGIQ 400,How to Disassemble Keyboard Bottom cover?,"1. Turn OFF the system.
+2. Remove the Front Base Cover (FRU 305). Refer to 6–2–35 on page 6–131.
+3. Remove the Front Cover (FRU 306). Refer to 6–2–36 on page 6–132.
+4. Remove the Side Cover Right (FRU 302). Refer to 6–2–32 on page 6–128.
+5. Unscrew six screws ( 1 – 6 ).
+6. Remove the Keyboard Bottom Cover.",,,
+GLOGIQ4111,TRACK_BALL,Disassembly,Renewal Parts,LOGIQ 400,How to Disassemble Trackball?,"1. Turn OFF the system.
+2. Remove the Keyboard Panel Assy. Refer to 6–2–49 on page 6–147.
+3. Unscrew four screws ( 1 – 4 ).
+4. Disconnect one connector ( 5 ).
+5. Unscrew four screws ( 6 – 9 ).
+6. Remove The Holding Metal Plate.",,,
+GLOGIQ4112,GAIN_ENCODER,Disassembly,Renewal Parts,LOGIQ 400,How to Disassemble Gain Encoder?,"1. Turn OFF the system.
+2. Remove the Keyboard Panel Assy. Refer to 6–2–49 on page 6–147.
+3. Unscrew four screws ( 1 – 4 ).
+4. Disconnect the gain encoder connector ( 5 ).",,,
+GLOGIQ4113,KEYBOARD_KNOBE_SET,Disassembly,Renewal Parts,LOGIQ 400,How to Disassemble Keyboard knobe set?,"1. Turn OFF the system.
+2. Loosen two hexagonal bolts for each encoder knob.
+3. Remove six Encoder Knobs ( 1 – 6 ).
+4. Pull the eight TGC Pot Knobs ( 7 ) out",,,
+GLOGIQ4114,TGC_DISASSEMBLY,Disassembly,Renewal Parts,LOGIQ 400,How to Disassemble TGC?,"1. Turn OFF the system.
+2. Remove the Keyboard Panel Assy. Refer to ILLUSTRATION 6–77 on page 6–155.
+3. Unscrew four screws ( 1 – 4 ).
+4. Disconnect one connector ( 5 ).",,,
+GLOGIQ4115,ROTARY_ENCODER,Disassembly,Renewal Parts,LOGIQ 400,How to Disassemble Rotary Encoder?,"1. Turn OFF the system.
+2. Remove the Keyboard Panel Assy. Refer to ILLUSTRATION 6–77 on page 6–155.
+3. Unscrew four screws ( 1 – 2 ).
+4. Disconnect the gain encoder connector ( 3 ).",,,
+GLOGIQ4116,REAR_CONN_SPACER,Disassembly,Renewal Parts,LOGIQ 400,How to Disassemble Rear conn spacer?,"1. Turn OFF the system.
+2. Remove the Rear Door Assy (FRU 304). Refer to 6–2–34 on page 6–130.
+3. Remove the Rear Cover Assy (FRU 303). Refer to 6–2–33 on page 6–129.",,,
+GLOGIQ4117,CIRCUIT_PROTECTER,Disassembly,Renewal Parts,LOGIQ 400,How to Disassemble circuit Protector?,"1. Turn OFF the system.
+2. Remove the Rear CONN Panel Assy (FRU 501). Refer to 6–2–61 on page 6–166.
+3. Remove the soldered cord ( 1 and 2 ).
+4. Remove the Circuit Protector toward the direction indicated by the arrow.",,,
+GLOGIQ4118,NEST_FAN_ASSY,Disassembly,Renewal Parts,LOGIQ 400,How to Disassemble Nest Fan Assy?,"1. Turn OFF the system.
+2. Remove the Side Cover Left (FRU 301). Refer to 6–2–31 on page 6–127.
+3. Disconnect two connectors ( 1 and 2 ).
+4. Unscrew two screws ( 3 and 4 ).
+5. Pull out the Nest Fan Assy leftwards.",,,
+GLOGIQ4119,CONNECTOR_COVER,Disassembly,Renewal Parts,LOGIQ 400,How to Disassemble Connector cover?,"1. Turn OFF the system.
+2. Unscrew four screws ( 1 – 4 ).
+3. Remove the Connector Cover.",,,
+GLOGIQ4120,SHIELD_FINGER_LONG,Disassembly,Renewal Parts,LOGIQ 400,How to Disassemble Shield Finger long?,"1. Turn OFF the system.
+2. Remove the Front Cover (FRU 306). Refer to 6–2–36 on page 6–132.
+3. Unscrew eight screws ( 1 – 8 ).
+4. Remove the connector frame.
+5. Remove the Shield Finger Long (FRU 515) or Shield Finger Short (FRU 516).",,,
+GLOGIQ4121,PROBE CONN 1 ASSY,Disassembly,Renewal Parts,LOGIQ 400,How to Disassemble conn 1?,"1. Turn OFF the system.
+2. Remove the Probe CONN Set Assy (FRU 512/513). Refer to 6–2–68 on page 6–176.
+3. Remove the PRAG Assy (FRU 519). Refer to 6–2–72 on page 6–182.
+4. Unscrew eight screws ( 1 – 8 ).
+5. Remove the connector frame.
+6. Unscrew twelve screws ( 9 – 20 ).
+7. Unscrew three screws (21 – 23 ).
+8. Unscrew two studs (24 and 25 ).
+9. Remove the Probe CONN 1 Assy or DCON Assy.",,,
+GLOGIQ4122,PRAG_ASSY,Disassembly,Renewal Parts,LOGIQ 400,How to Disassemble PRAG Assy?,"1. Turn OFF the system.
+2. Remove the Probe CONN Set Assy (FRU 512/513). Refer to 6–2–68 on page 6–176.
+3. Unscrew seven screws ( 1 – 7 ).
+4. Unscrew three screws ( 8 – 10 ) to remove the metal bracket.
+5. Disconnect two connectors ( 11 and 12 ).
+6. Remove the PRAG Assy.",,,
+GLOGIQ4123,MODD_ASSY_REMOVAL,Disassembly,Renewal Parts,LOGIQ 400,How to remove MODD assemble?,"1. Turn OFF the system.
+2. Remove the Keyboard Panel Assy (FRU 400). Refer to 6–2–49 on page 6–147.
+3. Disconnect the MODD Fan Power Cable.
+4. Unscrew two screws ( 1 and 2 ).
+5. Remove the MODD Fan Assy
+6. Remove the HDDB Assy (FRU 525). Refer to 6–2–75 on page 6–195.
+7. Unscrew four screws ( 3 – 6 ).
+8. Remove the upper metal plate.
+9. Disconnect the SCSI Cable and MODD Power Cable.
+10. Remove the MODD Holder Assy.
+11. Unscrew four screws ( 7 – 10 ).
+12. Remove the MODD.",,,
+GLOGIQ4124,HDD_ASSY,Disassembly,Renewal Parts,LOGIQ 400,How to remove HDD assemble?,"1. Make sure the customer data is saved on a MO disk. Refer to 4–3–3 (D), USER DATA BACK UP on page 4–22.
+2. Turn OFF the system.
+3. Remove the Keyboard Panel Assy (FRU 400). Refer to 6–2–49 on page 6–147.
+4. Remove the HDDB Assy (FRU 522). Refer to 6–2–75 on page 6–195.
+5. Unscrew two screws ( 1 and 2 ).
+6. Remove the HDD Holder Assy.
+7. Unscrew four screws ( 3 – 6 ).
+8. Remove the HDD (FRU 523) out of the HDD Holder Assy (FRU 524).",,,
+GLOGIQ4125,HDDB_ASSY,Disassembly,Renewal Parts,LOGIQ 400,How to remove HDDB Assemble?,"1. Turn OFF the system.
+2. Remove the Keyboard Panel Assy (FRU 400). Refer to 6–2–49 on page 6–147.
+3. Disconnect three connectors ( 1 – 3 ).
+4. Unscrew four screws ( 4 – 7 ).
+5. Remove the HDDB Assy.",,,
+GLOGIQ4126,HDD_LED_ASSY,Disassembly,Renewal Parts,LOGIQ 400,How to remove HDD LED assemble?,"1. Turn OFF the system.
+2. Remove the Front Base Cover (FRU 305). Refer to 6–2–35 on page 6–131.
+3. Remove the Front Cover (FRU 306). Refer to 6–2–36 on page 6–132.
+4. Unscrew two screws ( 1 and 2 ).
+5. Disconnect one connector ( 3 ).
+6. Remove the HDD LED Assy.",,,
+GLOGIQ4127,POWER_SWITCH_ASSY,Disassembly,Renewal Parts,LOGIQ 400,How to remove power switch assemble?,"1. Turn OFF the system.
+2. Remove the Front Base Cover (FRU 305). Refer to 6–2–35 on page 6–131.
+3. Remove the Front Cover (FRU 306). Refer to 6–2–36 on page 6–132.
+4. Unscrew two screws ( 1 and 2 ).
+5. Disconnect one connector ( 3 ).
+6. Remove the Power Switch Assy.",,,
+GLOGIQ4128,TIME_KEEPER_RAM,Disassembly,Renewal Parts,LOGIQ 400,How to remove Time Keeper Ram?,"1. Turn OFF the system.
+2. Remove the Side Cover Left (FRU 301). Refer to 6–2–31 on page 6–127.
+3. Unscrew five Nest Cover screws.
+4. Remove the Nest Cover.
+5. Remove the MPU Assy (FRU 612). Refer to 6–2–78 on page 6–198.
+6. Remove the Time Keeper RAM mounted on the CPU Assy.",,,
+GLOGIQ4129,HIGH_VOLTAGE_ASSY,Disassembly,Renewal Parts,LOGIQ 400,How to remove high voltage Assy?,"1. Turn OFF the system and unplug the main power cord.
+2. Remove the Front Base Cover (FRU 305). Refer to 6–2–35 on page 6–131.
+3. Remove the Side Cover Right (FRU 302). Refer to 6–2–32 on page 6–128.
+4. Unscrew four screws ( 1 – 4 ).
+5. Remove the PS Cover Right.
+6. Unscrew two screws ( 5 and 6 ).
+7. Disconnect five connectors ( 7 – 11 ).
+8. Pull the High Voltage Assy out.
+9. Disconnect the HV Fan Cable ( 12 ).
+10. Remove the High Voltage Assy.",,,
+GLOGIQ4130,HV_FAN_ASSY,Disassembly,Renewal Parts,LOGIQ 400,How to remove HV fan Assy?,"1. Turn OFF the system and unplug the main power cord.
+2. Remove the High Voltage Assy (FRU 701). Refer to 6–2–85 on page 6–214.
+3. Unscrew four screws ( 1 – 4 ).
+4. Remove the HV Fan.",,,
+GLOGIQ4131,LOW_VOLTAGE_UNIT_DISASSEMBLE,Disassembly,Renewal Parts,LOGIQ 400,How to remove Low voltage Assemble?,"1. Turn OFF the system and unplug the main power cord.
+2. Remove the Side Cover Left (FRU 301). Refer to 6–2–31 on page 6–127.
+3. Unscrew four screws ( 1 – 4 ).
+4. Remove the Left PS Cover.
+5. Unscrew two screws ( 5 and 6 ).
+6. Pull the Low Voltage Unit outwards.
+7. Unscrew fifteen screws ( 7 – 21 ) to remove wires.
+8. Pull the Low Voltage Unit out.
+9. Remove the Plastic Cover as shown in ILLUSTRATION 6–122 on page 6–219.
+10. Disconnect one connector ( 22 ).
+11. Unscrew two screws ( 23 and 24 ) to remove the FG wires.
+12. Remove the Low Voltage Unit.",,,
+GLOGIQ4132,TRIAC_UNIT,Disassembly,Renewal Parts,LOGIQ 400,How to remove TRIAC Assemble?,"1. Turn OFF the system and unplug the main power cord.
+2. Remove the Side Cover left. Refer to 6–2–31 on page 6–127.
+3. Remove the Left PS Cover. Refer to 6–2–95 on page 6–234.
+4. Unscrew two screws ( 1 and 2 ).
+5. Disconnect eleven (11) connectors ( 3 – 13 ) from the component side of the TRIAC Unit.
+6. Pull the TRIAC Unit outwards.
+7. Disconnect five connectors (14 – 18 ) from the NF2 located on the back side of the TRIAC Unit.
+8. Disconnect two connectors (19 and 20 ) from the rear of fuse socket.
+9. Remove the TRIAC Unit.",,,
+GLOGIQ4133,VISUAL_INSPECTION,"Visual,Maintenance",Maitenance,LOGIQ 400,What are the Procedures for visual inspection?,"a. Check cables for cracks nicks and abrasions of their insulation.
+b. Check that cables sheath are securely clamped in cable glands/connector clamps where applicable.
+c. Check that cables are correctly routed and secured.
+d. Check that all screws are in place and not missing.
+e. Check that all detachable cable connectors are fully home in their sockets.
+f. Check that all equipment covers and fixing are in place and undamaged.
+g. Check that all plug–in boards are fully seated in cardcage connector.
+h. Check operation of the cooling fans and that the airflow paths are clear. LOGIQ 400 has five Fans : three
+for PC Boards, one for Power Supplies, one for MO drive.
+i. Check that the keyboard keys, some volumes and Track Ball have correct function and no mechanical
+damage.
+j. Check that three Air Filters indicated in the ILLUSTRATION 7–2 are clean and undamaged.",,,
+GOPXR646134,SYSTEM_START_UP,"Start,System",Power,OPTIMA XR646,How to Start the system?,"1. Press the Power On button on the RCIM [Radiology Control Interface Module].
+2. Wait a few minutes until the entire system is powered.
+ The system powers up automatically.
+ If enabled, the Login screen appears on the monitor when the system is ready.  If Login is not enabled, the Worklist appears on the monitor when the system is ready..
+3. Wait for the detector to boot. This takes approximately 30 seconds.
+ A message in the system status area will appear: “Detector Boot is in progress. Please wait 29 seconds for the detector boot to complete.”
+ The system is ready when the detector boot message disappears.",,,
+GOPXR646135,SHUTDOWN,"Shutdown,System",Power,OPTIMA XR646,How to Shutdown the system?,"1. Close all current exams.
+2. Click the [UTILITY] button at the top of the Worklist screen.
+3. Select System on the Utilities screen.
+4. Click [SHUTDOWN].
+ A message appears: “The system will be shut down. NOTE: Please allow for the tube fan speed to 
+slow (if running high) before shutting down system.”
+5. Click [YES] to proceed with shut down.
+ The system powers off and the monitors go blank.
+ [CANCEL] stops the system from shutting down and returns you to the Utilities screen.",,,
+GOPXR646136,STANDARD_LOGIN,Login,Interface,OPTIMA XR646,How to login the system?,"1. Start up the system or log off the previous user.
+ The Login screen appears.
+2. Enter your Login Name.
+3. Enter your Password.
+4. Click [LOGIN].",,,
+GOPXR646137,LOG_OFF,Log off,Interface,OPTIMA XR646,How to log off?,"1. Close, suspend, or discontinue any open exams, if necessary.
+2. Close the Image Viewer, if necessary.
+3. Click [LOGOFF] at the top of the Worklist or Image Management screen.
+ Or open the Utility screen, go to System and click [LOGOFF]
+ A message appears: “Do you really want to log off?”
+4. Click [OK].
+ The Login screen appears.
+ [CANCEL] closes the screen and returns you to the last screen.",,,
+GOPXR646138,EMERGENCY_STOP_BUTTON,Stop,Interface,OPTIMA XR646,How to stop the system in Emergency condition?,"1. In an emergency situation, press the Emergency Stop button in with force.
+2. Resolve the emergency situation.
+3. When normal conditions are confirmed, turn (RCIM) or pull (table) the e-stop button to reset.
+ The system will power up automatically.",,,
+GOPXR646139,POSITION_THE_TABLE,Position,Hardware,OPTIMA XR646,How to Position the Table Longitudinally and Transversely?,"1. Release the table lock, if necessary.
+2. Press the table top positioning foot pedal two consecutive times (“double-tap”). This activates the foot 
+pedal.
+3. Hold the foot pedal down and position the table top.
+ You can float the table top in all directions while the pedal remains held down.
+4. Manually move the tabletop in a longitudinal or transverse direction to the desired position.
+5. Release the foot pedal to lock the tabletop.",,,
+GOPXR646140,ADJUST_OTS,Adjust,Hardware,OPTIMA XR646,How to Adjust the Overhead Tube Suspension (OTS) Position?,"1. Use the Longitudinal Lock Release button to move the OTS along the bridge of the overhead rail system.
+a) Press and hold the Longitudinal Lock Release button on the User Interface.
+b) Move the OTS to the desired position.
+c) Release the Longitudinal Lock Release button.
+2. Use the Vertical Lock Release button to move the telescopic column up and down.
+a) Press and hold the Vertical Lock Release button on the User Interface.
+b) Move the telescopic to the desired vertical position.
+c) Release the Vertical Lock Release button.
+3. Use the Lateral Lock Release button to move the OTS carriage from side to side on the bridge.
+a) Press and hold the Lateral Lock Release button on the User Interface.
+b) Move the OTS carriage to the desired position.
+c) Release the Lateral Lock Release button.
+4. Use the All-Lock, Lock Release button to simultaneously move the OTS in vertical, lateral and longitudinal directions. If detents are on and the OTS is in lateral detent the system will maintain the lateral 
+position but move freely in vertical an longitudinal.
+a) Press and hold the All-Lock, Lock Release button on the User Interface.
+b) Move the OTS to the desired position.
+c) Release the All-Lock, Lock Release button.",,,
+GOPXR646141,ADJUST_THE_TUBE_POSITION,Adjust,Hardware,OPTIMA XR646,How to Adjust the Tube Position?,"1. Use the Tube Angulation Lock Release button to rotate the tube about the short axis (cranial to caudal).
+a) Press and hold the Tube Angulation Lock Release button on the User Interface.
+b) Move the tube unit to the desired angle.
+c) Release the Tube Angulation Lock Release button.
+2. Use the OTS Rotation Detent Release lever to rotate the tube about the vertical axis of the telescopic 
+column.
+a) Press the Rotation Detent Release lever on the right side of the OTS.
+b) Rotate the tube unit.
+c) Release the lever. The OTS locks in the next 30 degree position.",,,
+GOPXR646142,ROTATE_THE_COLLIMATOR,Rotate,Hardware,OPTIMA XR646,How to Rotate the Multi-Leaf Collimator?,"1. Move the locking lever on the multi-leaf collimator toward the front panel, i.e. toward you. This 
+releases the collimator from the 0 lock-in position.
+2. Grasp the multi-leaf collimator with both hands.
+3. Rotate it to the desired angle and direction.
+4. Return the locking lever to its original position. This prevents further rotation.",,,
+GOPXR646143,ADD_PATIENT,Add,Interface,OPTIMA XR646,How to Add Patient?,"1. On the Worklist screen click [ADD PATIENT].
+2. Enter the patient information.
+3. Click [SAVE] or [START EXAM].",,,
+GOPXR646144,EDIT_PATIENT_INFORMATION,Edit,Interface,OPTIMA XR646,How to Edit Patient Information?,"1. Select the procedure from the Worklist.
+2. Click [PATIENT INFORMATION].
+3. Edit the information as necessary.
+4. Click [SAVE] to record the changes and return to the Worklist.",,,
+GOPXR646145,GRID_LOADING_AND_REMOVAL,Removal,Assemble,OPTIMA XR646,How to Grid Loading and Removal?,"1. Pull out the grid tray. 
+2. Install the grid with the “tube side” label facing up. . 
+3. Push in the grid tray.
+",,,
+GOPXR646146,SEARCH,Feature,Interface,OPTIMA XR646,How to search the features?,"1. Click the button on the Search By drop-down list to select the column you want to search.
+ If the column you want is already selected, begin at step 3.
+2. Select the column. For example, Patient Name.
+ The list is sorted by the selected column in alphabetical or numerical order.
+3. Type the search criteria into the text box.",,,
+GOPXR646147,SORT_BY_COLUMN,"Sort,column",Interface,OPTIMA XR646,How to Sort by column?,"1. Click the column heading you want to sort, or choose the column in the Search By drop-down list. For 
+example, if you want to see all the procedures that have a status of “Suspended”, click the “Status” 
+column heading.
+ An arrow appears in the column heading to indicate which column is currently being sorted.
+2. Click the column heading again to switch between ascending and descending order.
+ An up-pointing arrow indicates that the column is sorted in ascending order. That is, sorted in 
+alphabetical order or numerical order from smallest to largest.
+ A down-pointing arrow indicates that the column is sorted in descending order. That is, sorted in 
+reverse alphabetical order or numerical order from largest to smallest.",,,
+GOPXR646148,FILTER_LIST,Filter,Interface,OPTIMA XR646,How to  filter the Worklist?,"1. Click [FILTER LIST] on the Worklist screen.
+ The Filter Screen appears
+2. Select the Show list for option.
+3. Select the Include options.
+4. Select the Date option.
+5. If you selected Range for the Date option, enter or select the From and To dates.",,,
+GOPXR646149,SELECT_A_SINGLE_PROCEDURE,Select,Interface,OPTIMA XR646,How to Select a Single Procedure?,"1. Close or suspend any open exams The Worklist screen appears.
+2. Select the procedure from the Worklist.",,,
+GOPXR646150,SELECT_MULTIPLE_PROCEDURES,Select,Interface,OPTIMA XR646,How to Select Multiple Procedures?,"1. Sort the Worklist by Patient Name, if necessary.
+2. Click on all the procedures that are to be selected. 
+3. Click on [START EXAM]
+4. Select matching protocol from list in drop down menu.
+5. Continue to select protocols to match the protocol in the drop down list.
+6. Click on [ACCEPT] when all exams have had a protocol assigned.",,,
+GOPXR646151,DELETE_A_SINGLE_PROCEDURES,Delete,Interface,OPTIMA XR646,How to Delete a Single Procedure?,"1. Select the procedure to delete.
+2. Click [DELETE]. If necessary, switch the button to [DELETE].
+ A message appears: “Are you sure that you would like to delete the selected items?”
+3. Click [OK] to delete the procedures.
+ [CANCEL] retains the procedures and the Worklist appears.",,,
+GOPXR646152,DELETE_SUSPENDED_PROCEDURES,Delete,Interface,OPTIMA XR646,How to Delete Suspended Procedures?,"1. Select the suspended procedure to delete.
+ A message appears: “The patient entry you are trying to delete is still in progress. Would you like to 
+mark the patient as ‘Completed’ / ‘Discontinued’ and proceed with deletion?”
+2. Click [COMPLETE] or [DISCONTINUE].
+ [COMPLETE] changes the Status to of the procedures to “Completed.” If enabled, any acquired 
+images are auto pushed, auto printed, and sent to PACS.
+ [DISCONTINUE] changes the Status to “Discontinued.” Any acquired images are marked as Discontinued and the information is sent to PACS.
+ [CANCEL] closes the message and returns you to the Worklist without deleting procedures.
+ The procedures are removed from the Worklist.",,,
+GOPXR646153,CONDUCT_A_WALL_STAND_EXAM,Exam,Exam,OPTIMA XR646,How to Conduct a Wallstand Exam?,"1. Select the Exam and View to perform from the protocol list.
+2. Select the Patient Size. The system default is Medium Adult.
+3. Select the wallstand Receptor, if necessary.
+4. Select [AEC] or [FIXED] mode (if applicable for the protocol).
+5. Confirm or adjust the Grid and SID status.
+ An alert icon appears if the current Grid or SID is not in the recommended status for the technique.
+ A checkmark appears if the current Grid or SID is in the recommended status for the technique.
+ Figure 10-13 shows the Grid not in the recommended status and the SID in the recommended status.
+6. Make technique adjustments as necessary: kV, mA, Focal Spot, Cu Filter, and Ion Chambers (AEC 
+mode only).
+7. Position the patient in front of the wallstand.
+8. Confirm or adjust the Patient Side field, if applicable.
+9. Confirm or adjust the Patient Position field.
+10. Confirm or adjust the Asymmetric Collimation, if applicable.
+11. Collimate and shield as appropriate for the exam.",,,
+GOPXR646154,CONDUCT_A_TABLE_TOP_EXAM,Exam,Exam,OPTIMA XR646,How to Conduct a Table Top Exam?,"1. If multiple procedures were selected from the Worklist, select the procedure from the exam drop￾down list.
+2. Select the Exam and View to perform from the protocol list.
+3. Select the Patient Size. The system default is Medium Adult.
+4. Select the Detector Icon [Table Top Mode].
+5. Make other technique adjustments as necessary.
+6. Position the detector under the patient.
+7. Confirm or adjust the Patient Side, if applicable.
+8. Collimate and shield as appropriate for the exam.
+9. Have the patient suspend respiration, if required.
+10. Make exposure using the hand switch.
+",,,
+GOPXR646155,CONDUCT_A_CASSETTE_EXAM,Exam,Exam,OPTIMA XR646,How to Conduct a Cassette Exam?,"1. Click [CASSETTE EXAM] from the bottom of the Worklist screen.
+2. Select the protocols to perform.
+3. Click [ACCEPT].
+4. Select the Exam and View to perform from the protocol list.
+5. Make technique adjustments as necessary for the appropriate body part being imaged: kV and mAs
+6. Change the Cu Filter selection, if necessary.
+7. Position the patient with the cassette as appropriate for the exam.
+8. Collimate and shield as appropriate for the exam.
+9. Have the patient suspend respiration, if required.
+10. Make exposure using the hand-switch.
+11. Click [CLOSE] to end the exam.
+12. Process the cassette as necessary, depending on the media.",,,
+GOPXR646156,CONDUCT_A_EMERGENCY_EXAM,"Emergency,Exam",Exam,OPTIMA XR646,How to Conduct an Emergency Exam?,"1. Click [EMERGENCY EXAM] from the bottom left of the Worklist.
+2. Select the protocols for the exam.
+3. Click [ACCEPT].
+ The Acquisition screen appears.
+4. Select the protocol to perform from the Protocol List.
+5. Acquire images.",,,
+GOPXR646157,ACQUIRE_AEC_IMAGES,Images,Exam,OPTIMA XR646,How to Acquire AEC Images?,"
+1. Open an exam from the Worklist and select the protocols.
+ The Acquisition screen appears.
+2. Select the protocol to perform.
+3. Change the Patient Size, if necessary.
+4. Change the Receptor, if necessary.
+5. Click [AEC], if necessary.
+ Depending on the current protocol, AEC may already be selected by default.
+ The AEC mode displays the Ion Chamber selections.
+ The Fixed mode removes the Ion Chamber selections.
+ You are able to alter this selection at any time to accommodate the requirements of a specific 
+examination.
+6. Change the selected Ion Chambers, if necessary.
+ Selected (active) AEC cells will appear highlighted on the acquisition screen.
+7. Make other technique adjustments as necessary.
+ You are able to adjust the kV, mA, and Focal Spot.
+8. Confirm or select the Cu Filter, if necessary.
+9. Position the patient so that the anatomy of interest is centered over the selected AEC cells.
+Note: The body part must cover the selected ion chambers in order to achieve the appropriate expo￾sure.
+10. Collimate the light field to encompass the detection area being used.
+11. Collimate to the desired area. This ensures the receptor sensing area is aligned with the patient’s 
+anatomy.
+12. Confirm the Patient Position. Change if necessary.
+13. Make the exposure.
+14. If the AEC Back-up Reached message appears: Click [OK].
+ The message closes.
+15. Observe technique settings and continue exam.",,,
+GOPXR646158,CUSTOMIZE_SYSTEM_ANNOTATIONS,Customize,Customize,OPTIMA XR646,How to Customize System Annotations?,"1. Select the Image Tools panel – Annotation tab if necessary.
+2. Click [CUSTOM].
+3. Select (check) the annotations you want to appear.
+4. Adjust the Font Size, if necessary.
+5. Click [OK].
+ [CANCEL] closes the screen and leaves the selections unchanged.",,,
+GOPXR646159,ADD_IMAGE_ANNOTATIONS,Image,Customize,OPTIMA XR646,How to Add Image Annotations?,"1. Select the image to annotate, if necessary.
+2. Click the button of the annotation to insert.
+Note: Selected image annotations are yellow with red handles. Unselected image annotations are aqua 
+without handles.
+3. Move, re-size, or change the angle of the annotation as described ",,,
+GOPXR646160,DELETE_IMAGE_ANNOTATIONS,Image,Customize,OPTIMA XR646,How to Delete Image Annotations?,"1. Select the annotation.
+2. Click [ERASE] or [ERASE ALL].
+ If [ERASE ALL] was clicked, a message appears: “Would you like to remove all annotations from the 
+selected image?”
+3. Click [YES].
+ All annotations are removed.",,,
+GACTS161,RESET_THE_EMERGENCY_OFF_BUTTON,"Emergency,Care,Disconnect",Safety,REVOLUTION ACTS,How to Reset Emergency OFF button?,"1. Press the Start button on the Main Disconnect Control.
+ Powerto the Power Distribution Unit (PDU), operator console, and system electronics will be
+restored.
+2. Stab the E-Reset hole on the Control Panel or SCBSV.
+ Power to the gantry drives, X-ray system, and table drive will be restored.",,,ES7
+GACTS162,EMERGENCY_PATIENT_CARE_DURING_X-RAY_ON,"Emergency,Care,",Safety,REVOLUTION ACTS,How to Care patient when x-ray is ON?," Press STOP SCAN to abort X-ray and stop gantry/table movement.
+ Duringanexam,thesystempausesbetweenscans if youPressanybuttononthecontrol panelother
+than the alignment lights. It stops X-ray if you press the same buttons during a scan.
+ Select Resume on the screen to continue the exam.",,,ES7
+GACTS163,EMERGENCY_EGRESS,"Emergency,Care",Safety,REVOLUTION ACTS,What will be do when the System operation maybe stopped due to powerfailure?,Use Cradle Unlatch button.,,,ES7
+GACTS164,TO_SAFELY_REMOVE_THE_PATIENT,"Emergency,Care",Safety,REVOLUTION ACTS,How do we safely remove the patient?,"1. Press the Cradle Release gantry key or the Emergency Stop button (1) to disengage the clutch.
+2. Pull the cradle to its out position, using the Cradle Lip or Cradle Handle (2).
+3. Assist the patient off the table.",,,ES7
+GACTS165,SETTING_DOSE_ADMINISTRATOR_ROLE,"Dose,Alert values",Dose Check,REVOLUTION ACTS,How to set Dose Administrator Role?,"1. ClickDoseCheck Managementfrom Protocol Management.
+2. Click User Admin Tool.
+3. From the EA3 Administration screen, type your Username and Password.
+ Consult your service engineer or Application Representative for user name and password.
+4. From the Local Users tab, click Add Local User.
+5. From the pop-up panel, type information for each of the following:
+ A unique userID
+ FullName
+ Password
+ ConfirmPassword
+6. Click Add User.
+7. From the Groups tab, click Add Local Group.
+8. From the Add Local Group window, type and enter a unique group name
+9. Click AddGroup
+ The group is highlighted in the Local Groups list box.
+ All information and buttons in the center panel referto the highlighted group.
+10. To change a group's roles, select the Dose Admin Role option box and click Apply Roles.
+a. A green label confirms the applied roles.
+b. An error message box displays if it is unsuccessful.",https://drive.google.com/file/d/1zdcWJjNz4L471S1NTej2I_xcxSNqFKLl/view?usp=sharing,,RS8
+GACTS166,SETTING_AV_EXCEEDING_USER_ROLE,"Dose,Alert values,AV",Dose Check,REVOLUTION ACTS,How to set AV Exceeding User Role?,"1. ClickDoseCheck Managementfrom Protocol Management.
+2. Click User Admin Tool.
+3. From the EA3 Administration screen, type your Username and Password.
+4. From the Local Users tab, click Add Local User.
+5. From the pop-up panel, type information for each of the following:
+ A unique userID
+ FullName
+ Password
+ ConfirmPassword
+6. Click Add User.
+7. From the Groups tab, click Add Local Group.
+8. From the Add Local Group window, type and enter a unique group name.
+9. Click Add Group.  The group is highlighted in the Local Groups list box.
+ All information and buttons in the center panel referto the highlighted group.
+10. To change agroup's roles, selecttheDoseCheck AV ExceedingUser option box and click ApplyRoles.  A green label confirms the applied roles.
+ An error message box displays if it is unsuccessful.",https://drive.google.com/file/d/1fbtu6QSgw_uH_xFViMX_F2F2Gu-atPKr/view?usp=sharing,,RS8
+GACTS167,CONFIGURE_THE_SYSTEM_FOR_DOSE_CHECKING,"Dose,Alert values,AV,NV",Dose Check,REVOLUTION ACTS,How do we check the system for Dose checking?,"1. ClickDoseCheck Managementfrom Protocol Management.
+2. Set Checking for Notification Value (NV).
+a. In theNV Checking section Click CTDIvol and/orDLP.
+b. Type a value for CTDIvol and/or DLP.  The range for NV is 0 to ≤ to the value set for AV.
+ Or, the letter N can be entered to indicate that no checking will be done.
+The system default is NV checking CTDIvol ""On"" andDLP ""Off"". GE reference protocols will not
+contain anyNV values.
+3. Set checking for Alert Value (AV).
+a. In the AV Checking section Click CTDIvol and/orDLP.
+b. Type a value for CTDIvol and/or DLP.  The maximum AV value for CTDIvol is 2000 mGy.
+ The maximum AV value for DLP is 400,000 mGy-cm.
+ ThesystemdefaultisAVcheckingbyCTDIvol""On""withavalueof1000mGy.DLPchecking""Off""
+with a value of 0 mGy-cm.
+Alert Value should be determined by a collaboration between the Radiologist and Physicist at the site.
+4. Click Save.",https://drive.google.com/file/d/16mCgT_zI3VwJBElE7N1pp_8G6Ld6nm35/view?usp=sharing,,RS8
+GACTS168,CONFIGURE_THE_SYSTEM_FOR_ALERT_VALUE_BY_AGE_THERSHOLD,"Dose,Alert values,AV,NV,Age",Dose Check,REVOLUTION ACTS,What are the  procedure to configure the system for Dose Checking by Alert Value(AV) Checking byAgeThreshold?,"1. Click Dose Check Management from Protocol Management.
+2. In the AV (Alert Value) Checking section, click Add Age Threshold.
+3. Type the desired Patient Age.
+4. Type a value for CTDIvol and/or DLP.
+ The maximum AV value for CTDIvol is 2000 mGy.
+ The maximum AV value for DLP is 400,000 mGy-cm.
+ ThesystemdefaultisAV checkingbyCTDIvolOnwithavalueof1000 mGy.DLPcheckingOff,0 mGy
+ The value must be lower than the Adult AV value.
+5. Click save.",https://drive.google.com/file/d/1l0zh2AKya0_xOdJKpoEMrFsGDrM21Xml/view?usp=sharing,,RS8
+GACTS169,CONFIGURE_THE_SYSTEM_FOR_PROTOCOL_CHANGE_CONTROL,"Dose,Alert values,AV,NV,Protocol",Dose Check,REVOLUTION ACTS,What are the procedure to configure the system for Protocol Change Control (PCC)?,"1. Click Dose Check Management from Protocol Management.
+2. In the Protocol Change Control section Click Off to enable PCC.
+3. Click save.",https://drive.google.com/file/d/1e3kOSqwCjOELrYR60ea7RHCdnAjzDyHM/view?usp=sharing,,RS8
+GACTS170,BUILDING_PROTOCOLS_USING_PROTOCOL_CHANGE_CONTROL,"Dose,Alert values,AV,NV,Protocol",Dose Check,REVOLUTION ACTS,What are the procedure to build protocols with Protocol Change Control (PCC)?,"1. ClickDoseCheck Managementfrom Protocol Management.
+2. Click Logon Name.
+3. Type the user name.
+4. Click Password.
+5. Type the User password.
+6. Click Logon.",https://drive.google.com/file/d/1QV278wXB8wsSEA4OWzQs8M0_yW4XjWOw/view?usp=sharing,,RS8
+GACTS171,BUILDING_PROTOCOLS_WITH_NOTIFICATION_VALUES,"Dose,,AV,NV,Protocol",Dose Check,REVOLUTION ACTS,What are the procedure to set Notification Values (NV) in User protocols?,"1. From the scan monitor, click the Protocol Managementicon.
+2. On the Auto Voice and Protocol Management screen, click Protocol Management.
+3. On the Protocol Selection screen, click User.
+4. On the User tab click an Anatomical area.
+5. In the Anatomical Area click on a protocol.
+6. Click Next Series to go to the first non-scout series in the protocol.
+7. From the Dose Information area click Set Up.
+8. Type the desired CTDIvol or DLP NV value by group.
+ Only one CTDIvol or DLP value can be set for SmartPrep scan groups.
+9. Click Info to return to the Dose Information display.
+10. Click Accept to save the protocol parameters.
+ The system compares all the CTDIvol and DLP values in the scan groups to the entered NV value.
+ The protocol parameters will not be accepted until the NV value is no longer exceeded or the user
+has entered a Diagnostic Reason for continuing to accept the scan parameters exceeding the NV
+Value.
+ Saving a protocol with a dose level exceeding an NV value demands a high degree of
+consideration for appropriateness. Therefore, in most cases, you will click Cancel to go back to
+adjust parameters. However, if there is a true clinical reason to save a protocol exceeding an NV
+value, then enter a diagnostic reason.
+11. Click in theDiagnostic Reason text field.
+12. Type the reason for scanning exceeding the NV value.
+ The maximum number of characters is 64.
+ Once the maximum number of characters is reached the system will not accept any additional
+character input.
+13. Click Confirm to accept the protocol scan parameters.",https://drive.google.com/file/d/1fEVH502cV6rDMOIKx_Idrn6JkVhvw-gA/view?usp=sharing,,RS8
+GACTS172,BUILDING_PROTOCOLS_WITH_NOTIFICATION_VALUES_BY_FACTOR,"Dose,,AV,NV,Protocol,Factor",Dose Check,REVOLUTION ACTS,What are the procedure to set Notification Values (NV) in User protocols for all scan groups by a factor?,"1. From the scan monitor, click the Protocol Managementicon.
+2. On the Auto Voice and Protocol Management screen, click Protocol Management.
+3. On the Protocol Selection screen, click User.
+4. On the User tab click an Anatomical area.
+5. In the Anatomical Area click on a protocol.
+6. Click Next Series to go to the first non-scout series in the protocol.
+7. From the Dose Information area click Set Up.
+8. Click NV column edit.
+9. Type the desired factor.
+10. ClickAccept.
+11. Click Info to return to the Dose Information display.",https://drive.google.com/file/d/179FvWQIxSNaKdM3k3WiRgPuaspnBlfem/view?usp=sharing,,RS8
+GACTS173,SCAN_USING_ALERT_VALUE_CHECKING,"Dose,,AV,NV,Protocol,Checking",Dose Check,REVOLUTION ACTS,What are the  procedure to scan using AV checking?,"1. Click in the Logon Name text field.
+2. Type the UserName.
+3. Click in the Password text field.
+4. Type the user password.
+5. Click in the Diagnostic Reason text field.
+6. Type the reason for scanning exceeding the AV value.
+ The maximum number of characters is 64.
+ Once the maximum number of characters is reached the system will not accept any additional
+characterinput.
+7. Click Confirm to proceed to scanning.",https://drive.google.com/file/d/1ehBPKyw-VRMdS3ptI7wmJ9ksGaYSTXHh/view?usp=sharing,,RS8
+GACTS174,SCAN_USING_NOTIFICATION_VALUE_CHECKING,"Dose,,AV,NV,Protocol,Checking",Dose Check,REVOLUTION ACTS,What are the procedure to scan using NV checking?,"1. Click in the Diagnostic Reason text field.
+2. Type the reason for scanning exceeding the NV value.
+ The maximum number of characters is 64.
+ Once the maximum number of characters is reached the system will not accept any additional
+characterinput.
+3. Click Confirm to proceed to scanning.",https://drive.google.com/file/d/1UGVpXfazVFsUeNgEigxyMQu72rHoBfJk/view?usp=sharing,,RS8
+GACTS175,DISPLAY_A_DOSE_CHECK_LOG,"Dose,,AV,NV,Protocol,Check log",Dose Check,REVOLUTION ACTS,What are the procedure to display a Dose Check Log?,"1. On the Auto Voice, Protocol Management and Dose Check Management screen, click Dose Check
+Management.
+2. On the Dose Check Management screen, click Log List.
+3. From the Dose Audit Tool, click Audit Tool.
+4. On the Log List click on the desired log.
+ If the log data approaches the maximum size, the system will post a message directing the user
+to export the log data.",,,RS8
+GACTS176,DISPLAY_THE_PROTOCOL_SUMMARY,"Dose,,AV,NV,Protocol,Summary",Dose Check,REVOLUTION ACTS,What are the procedure to display the Protocol Summary?,"1. ClickDoseCheck Managementfrom Protocol Management.
+2. On the Dose Check Management screen, click Audit Tool.
+3. In the Protocol Summary area, click All Protocols orInvalid Protocols.",https://drive.google.com/file/d/1-nardEeL4ma2sDrDgQbW-RwmiQ81_8bU/view?usp=sharing,,RS8
+GACTS177,EXPORT_DOSE_CHECK_LOG_DATA,"Dose,,AV,NV,Protocol,Log data",Dose Check,REVOLUTION ACTS,What are the  procedure to export Dose Check log data?,"1. ClickDoseCheck Management from Protocol Management.
+2. Insert CD –R media in the DVD RW drive or insert USB media in the USB port of the media tower.
+3. On the Dose Check Management screen, click Audit Tool.
+4. On the Dose Audit Tool, click Export.
+5. On the Export Media screen, click media type CD/DVD or USB.
+6. Onthe Export Contents, click 1 or moreof the following:DoseCheck Log, Protocol Summary or User
+Protocols
+ If Protocol Summary is selected click All Protocols or Invalid Protocols.
+7. On the Export screen, click OK. ",,,RS8
+GACTS178,COLOUR_CODING_FOR_KIDS_PROTOCOL_SELECTION,"Colour,Kids,Protocol",Pediatrices,REVOLUTION ACTS,,,https://drive.google.com/file/d/1qVYLzrPjoyOodpymh4fdTc88jPl2I5bF/view?usp=sharing,,PS9
+GACTS179,SETUP_A_PEDIATRIC_PATIENT_EXAM,"Setup,Exam,pediatric,Small patient",Pediatrices,REVOLUTION ACTS,What are the procedures in time you start a new patient exam for a pediatric patient?,"1. On the scan monitor, click the Exam Rx icon.
+ The PATIENT INFORMATION screen displays the newExam Number.
+ The maximum Exam Number is 49, 999, which is reset by your Field Engineer.
+2. From the PATIENT INFORMATION area, type data into the appropriate fields.
+ Press Enterto advance to the next field. Alternatively, use the mouse to navigate to each field.
+ Patient ID is a required field. If the patient does not have an identification number, type ? orthe
+wordtrauma.
+3. Click PEDIATRIC.
+4. From the Pediatric Protocol Selection screen, click an anatomical area.
+ With the patient's weight entered,the system automatically selects the appropriate pediatric
+color code area forthe anatomical area selected.
+ Use the arrows to scroll through the list.
+ Click a protocol from the list to download the scan parameter values.
+5. Fromthe Pediatric Protocol Category screen, selectthe weight/length category based on the size of
+your patient or verify the correct Color category has been selected if you entered a weight.
+ The protocols in the selected color code are then displayed accordingly.
+ Thedefaultweight/colorselectordisplaysthepatientweightenteredonthePATIENTINFORMATION
+screen,orthe last weight/color selection(if no patientinformation was entered).
+ There is no reference protocolfor Pediatric areasNeck, Upper Extremity,Chest, Abdomen, Spine,
+Pelvis, and Lower Extremity.
+ If you enter a patient weight on the Patient Information screen and select a color/weight that is
+not consistent with the entered information, an error message displays. You must acknowledge
+that you have chosen a protocol that does NOT match the patient size.
+6. Proceed with the Acquire a Scout scan procedure.",,,PS9
+GACTS180,ADJUST_PEDIATRIC_PATIENT_SCAN_PARAMETERS,"Setup,Exam,pediatric,Small patient",Pediatrices,REVOLUTION ACTS,What are the parameters to be Adjusted in Pediatric patient Exam?," size, age, weight, height,also Recommended pediatric color coded protocols.",,,PS9
+GACTS181,AUTOmA,"Setup,Exam,pediatric,Small patient",Pediatrices,REVOLUTION ACTS,What are the Procedures When Center the patient properly by using AutomA?," Double check and verify the table height is centered to the patient.
+ Raise or lower the table as needed before taking the scouts.
+ Afterthescoutsaretakenandprescriptionisdone,verifythemAtablecalculationsbeforeconfirming
+the scan.
+ Make sure minimum mA and maximum mA values are set appropriately.
+ See Set the mA procedure in the Scan chapter.",,,PS9
+GACTS182,SFOV_FILTERS,"Filter,Exam,pediatric,Small patient",Pediatrices,REVOLUTION ACTS,For small Patients what are the conditions to be maintained for SFOV Filters?," Matching the appropriate SFOV bowtie filter to the size of the patient ensures the dose is delivered
+where it is needed, and filtered where it is not needed.
+ Small SFOV supports DFOVs up to 25 cm in diameter.
+ Ped Head SFOV supports DFOVs up to 25 cm in diameter and uses IBO processing to correct for
+beam hardening effects. It is particularly useful for infants 18 months or less in age.",,,PS9
+GACTS183,SCBSV_BUTTONS,"Buttons,Equipment",Equipment,REVOLUTION ACTS,,,https://drive.google.com/file/d/1FoV0WFIiVl9SPJwOblCCxwul6hnvYYGU/view?usp=sharing,,
+GACTS184,OPERATE_THE_MOUSE_CONTROLS,"Mouse,Controls",Equipment,REVOLUTION ACTS,,,https://drive.google.com/file/d/1ID4y1Mj1hlky89LHAstVN6DUxoAFjLK7/view?usp=sharing,,
+GACTS185,OPERATE_THE_GANTRY_CONTROLS,"Gantry,controls",Equipment,REVOLUTION ACTS,,,https://drive.google.com/file/d/1HyRABfbcAifC2smA6vLjicpNqJM_US4Z/view?usp=sharing,,
+GACTS186,SYSTEM_LOGIN,"System,login",Power ,REVOLUTION ACTS,How to login to the system?,"1. From the logon screen, type your assigned logon name.
+2. Typeyourpassword.
+ Click Emergency Logon only if you do not have a valid account set up. The Emergency Logon
+screen is launched, which does not require a ID or password.
+3. Click Logon.",,,ES1
+GACTS187,SYSTEM_LOGOUT,"System,logout",Power ,REVOLUTION ACTS,How to log off the system?,"1. From the monitor, click the Shutdown icon.
+2. From the Attention Shutdown pop-up screen, click Logout User andOK.",,,ES1
+GACTS188,ROUTINE_DAILY_START_UP,"System,Start up",Power,REVOLUTION ACTS,Daily start up?,"1. From the monitor, click Shutdown.
+2. ClickRestart.
+3. ClickOK.",,,ES1
+GACTS189,STARTUP_FROM_POWER_OFF,"System,Start up",Power,REVOLUTION ACTS,How to start up from power off?," If powerwas turned off via the computer switch andtheMainDisconnectControlA1 PowerPanel
+(Breaker),then
+a. Turn on power to the Main Disconnect Control.
+b. Turn on power to the computer.
+c. Press Reset on the gantry controls.
+ SeeTubewarm-upprocedureforpotentialAttentionmessages.ClickOKandfollowtheAttention
+instructions.",,,
+GACTS190,SHUTDOWN_AND_RESTART_THE_SYSTEM,"System,Shutdown,Restart",Power,REVOLUTION ACTS,What are the procedures to Shutdown and restart the system?,"1. Disconnect any USB devices from the USB drive before performing a reboot or shutdown.
+ If a save/restore of scan data is in progress, wait for the process to complete, exit Recon
+Management, and disconnect the USB device before you reboot or shutdown. If for some reason
+the system should shutdown unexpectedly while a USB drive is connected to the system,
+disconnectthe USB drive before restarting the system.
+2. From the monitor, click Service
+3. FromService,click Shutdown.
+4. From the Attention Shutdown pop-up screen, click Shutdown or Restart and OK.
+5. For systemshutdown,whenthe""SystemHalted"" message displaysonthe monitorthesystemcan be
+powered off. Press the power switch on the front of the operator’s console to the off position.",,,ES1
+GACTS191,PATIENT_SCHEDULE,"Patient,Schedule",Patient Schedule,REVOLUTION ACTS,How to view the Patient Schedule Screen?,Click the Patient Schedule icon to display the Schedule screen.,https://drive.google.com/file/d/18hjlplmjn7ubIjM-keWa7uX7CkAoHHUI/view?usp=sharing,,DS4
+GACTS192,UPDATE_PARAMETERS_SCREEN,"Parameter,Patient",Patient Schedule,REVOLUTION ACTS,How to update your Patient Schedule list with information from HIS/RIS?,"Click the Patient Schedule icon and selectUpdate Parameters to display the Update Parameters
+screen, where you can update your Patient Schedule list with information from HIS/RIS.
+Get Patient List For
+ This system populates the Patient Schedule for the current scanner you are on.
+ All CT Systems poppulates the Patient Schedule for all of the CT systems on the HIS/RIS connection.
+ All Systems populates the Patient Schedule for all the systems on the HIS/RIS connection.
+DataRange
+ Populates teh Patient Schedule from the defined date range. Use the month/day/year format.
+Requested Proc ID, AccessionNumber, PatientName, PatientID
+ Additional ways to populate the Patient Schedule.
+ContinueUpdate
+ Applies the criteria chosen and updates the Patient Schedule.
+CancelUpdate
+ Closes the Update Parameters screen without saving any new selections.",https://drive.google.com/file/d/1x4OWh7dQKT16fmjzXNw7eFPCoJYcKCVB/view?usp=sharing,,DS4
+GACTS193,PATIENT_SCHEDULE_PREFERENCES_SCREEN,"Preferences,Patient",Patient Schedule,REVOLUTION ACTS,How to select preferences in patient Schedule Screen?,Click the Patient Schedule icon andselectPreferences.,https://drive.google.com/file/d/1p1JFiG6DbtMkL114eq-7EELlszwYveva/view?usp=sharing,,DS4
+GACTS194,ADD_A_PATIENT_TO_THE_SCHEDULE_MANUALLY,"Manually,Patient,Schedule",Patient Schedule,REVOLUTION ACTS,How to Add a patient to the schedule manually?,"1. Click the Patient Schedule icon.
+2. From the Schedule screen, click Add Patient.
+3. From the Schedule Patient screen, complete all relevantfields.
+ Entering even weights may be rounded up to the next odd pound because weights are stored as
+kilogram units then converted back to pounds.
+ If adding a patient where Exam Split is going to be used, an exam description must be entered for
+those entries to be used with Hard Exam Split.
+ If desired, add the number of the specific protocol under Protocol Number.
+ If desired,type in the date and time in appropriate fields to be able to sort the Patient Schedule by
+scheduledtimes.
+4. Click Accept to add the patient to the schedule.",,,DS4
+GACTS195,EDIT_A_PATIENT_IN_THE_SCHEDULE,"Edit,Patient,Schedule",Patient Schedule,REVOLUTION ACTS,How to Edit a patient in the schedule?,"1. Click the Patient Schedule icon.
+2. From the Schedule screen, select a patient.
+3. Click Edit Patient.
+4. Change the patientinformation as needed.
+5. ClickAccept.",,,DS4
+GACTS196,DELETE_A_PATIENT_FROM_THE_SCHEDULE,"Delete,Patient,Schedule",Patient Schedule,REVOLUTION ACTS,How to Delete a patient from the schedule?,"1. Click the Patient Schedule icon.
+2. From the Schedule screen, select patients to be removed.
+3. ClickDelete Selected.  Alternatively, choose one of the following options.
+ Click Delete All to remove all the patients from the list.
+ Click Delete All Completed to remove all the completed patients marked with ""C"" from the list.
+4. Click OK to the confirmation prompt.",,,DS4
+GACTS197,UPDATE_THE_PATIENT_SCHEDULE,"Update,Patient,Schedule",Patient Schedule,REVOLUTION ACTS,How to Update the patient schedule?,"1. Click the Patient Schedule icon.
+2. From the Schedule screen, click Update.
+3. From the Update Parameters screen, select one of the following options from the Get Patient List to
+populate the schedule from yourHIS/RIS.
+ Select This system to pull the patient schedule forthe current scanner.
+ Select All CT Systems to pull the patient schedule for all of the CT systems on the HIS/
+RIS connection.
+ Select All Systems to pull the patient schedule for all the systems on the HIS/RIS connection.
+4. Enter values for the Date Range.
+5. Enter a Requested Procedure ID, accession number, patient name orID to narrow the search. These
+are optional fields.
+6. Click Continue Update to continue or click Cancel Update to exit and make no changes.",,,DS4
+GACTS198,VIEW_MORE_PATIENT_INFORMATION_ON_THE_SCHEDULE,"Information,Patient,Schedule",Patient Schedule,REVOLUTION ACTS,How to View more patient information on the schedule?,"1. Click the Patient Schedule icon.
+2. From the Schedule screen, select a patient.
+3. Click View More Info. The screen is populated from your HIS/RIS.
+4. Click Cancel to close the More Information screen.",,,DS4
+GACTS199,SET_PATIENT_SCHEDULE_PREFERENCES,"Information,Patient,Schedule",Patient Schedule,REVOLUTION ACTS,How to Set patient schedule preferences?,"1. Click the Patient Schedule icon.
+2. From the Schedule screen, click Preferences.
+3. From the Preferences screen, complete fields as needed.",,,DS4
+GACTS200,SELECT_A_PATIENT_FROM_THE_SCHEDULE,"Information,Patient,Schedule",Patient Schedule,REVOLUTION ACTS,How to Select a patient from the schedule?,"1. Click the Exam Rx icon.
+2. Click the Patient Schedule icon.
+3. From the Patient schedule list, select the desired patient and click Select Patient.  The Patient Information screen fields are populated.
+ Multiple records forthe same patient can be selected.
+ Multiple records must be selected in order to use Exam Split.  If more than one record with the same Patient ID is found in the Patient schedule list a dialog
+message displays. To avoid having multiple Patient Records with the same Patient ID, set the
+Delete Completed Exams preference to zero. This will ensure that only new records are in the
+Patient Schedule list.
+4. If a protocol is not tied to the patient, select the protocol. The system displays the first series.",,,DS4
+GACTS201,CHECK_A_PATIENTS_STATUS,"Information,Patient,Schedule,Status",Patient Schedule,REVOLUTION ACTS,How to Check a patient's status?,"1. Click the Patient Schedule icon.
+2. View the Status column.
+ N = New Record or Not Completed
+ C = Completed
+3. Click or arrows to page through the list.",,,DS4
+GACTS202,,,,REVOLUTION ACTS,,,,,
+GACTS203,,,,REVOLUTION ACTS,,,,,
+GACTS204,,,,,,,,,
+GACTS205,,,,,,,,,
+GACTS206,,,,,,,,,

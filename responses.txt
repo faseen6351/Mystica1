@@ -1,0 +1,30 @@
+need help
+
+ok,tell me your problem,ill try to fix it.
+
+
+How to Check a patient's status
+
+Step 1: Click the Patient Schedule icon.
+Step 2: View the Status column.
+ï. N = New Record or Not Completed
+ï· C = Completed
+Step 3: Click or arrows to page through the list.
+
+How to Add a patient to the schedule manually
+
+1. Click the Patient Schedule icon.
+2. From the Schedule screen, click Add Patient.
+3. From the Schedule Patient screen, complete all relevantfields.
+ï‚· Entering even weights may be rounded up to the next odd pound because weights are stored as
+kilogram units then converted back to pounds.
+ï‚· If adding a patient where Exam Split is going to be used, an exam description must be entered for
+those entries to be used with Hard Exam Split.
+ï‚· If desired, add the number of the specific protocol under Protocol Number.
+ï‚· If desired,type in the date and time in appropriate fields to be able to sort the Patient Schedule by
+scheduledtimes.
+4. Click Accept to add the patient to the schedule.
+
+
+
+

@@ -1,0 +1,84 @@
+{
+  "richContent": [
+    [
+      {
+        "title":"decsription title",
+        "type":"description",
+        "text":[
+          "this is line 1",
+          "this is line2 "
+          ]
+      }
+      ]
+    ]
+}
+///////////////////////////////////////////////////////////////////////////////
+
+{
+  "richContent": [
+    [
+      {
+        "title": "How to Reset Emergency OFF button ?",
+        "type": "description",
+        "text": [
+          
+          "Step 1: Press the Start button on the Main Disconnect Control.",
+"step 2 : Powerto the Power Distribution Unit (PDU), operator console, and system electronics will be restored.",
+" step 3 : Stab the E-Reset hole on the Control Panel or SCBSV.",
+"step 4: Power to the gantry drives, X-ray system, and table drive will be restored."
+
+        ]
+      }
+    ]
+  ]
+}
+
+{
+  "richContent": [
+    [
+      {
+        "title":"How to Care patient when x-ray is ON ?",
+        "type":"description",
+        "text":[
+          "Step 1 : Press STOP SCAN to abort X-ray and stop gantry/table movement.",
+
+"Step 2 : During an exam,the system pauses between scans if you Press any button on the control panel other than the alignment lights. It stops X-ray if you press the same buttons during a scan.",
+
+"Step 3 :Select Resume on the screen to continue the exam."
+          ]
+      }
+      ]
+    ]
+}
+
+{
+  "richContent": [
+    [
+      {
+        "text": [
+          "Step 1: Press the Cradle Release gantry key or the Emergency Stop button (1) to disengage the clutch.",
+          "Step 2: Pull the cradle to its out position, using the Cradle Lip or Cradle Handle (2).",
+          "Step 3: Assist the patient off the table."
+        ],
+        "title": "How do we safely remove the patient?",
+        "type": "description"
+      }
+    ]
+  ]
+}
+
+{
+  "richContent": [
+    [
+      {
+        "title": "What will be do when the System operation maybe stopped due to power failure?",
+        "type": "description",
+        "text": [
+          "Use Cradle Unlatch button."
+        ]
+      }
+    ]
+  ]
+}
+
+

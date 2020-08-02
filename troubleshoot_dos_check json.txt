@@ -1,0 +1,78 @@
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "Description title",
+        "text": [
+          "This is text line 1.",
+          "This is text line 2."
+        ]
+      }
+    ]
+  ]
+}
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "How to set Dose Administrator Role?",
+        "text": [
+          "1. ClickDoseCheck Managementfrom Protocol Management.",
+"2. Click User Admin Tool.",
+"3. From the EA3 Administration screen, type your Username and Password.",
+" (Consult your service engineer or Application Representative for user name and password.)",
+"4. From the Local Users tab, click Add Local User.",
+"5. From the pop-up panel, type information for each of the following:",
+"* A unique userID",
+"* FullName",
+"* Password",
+"* Confirm Password",
+"6. Click Add User.",
+"7. From the Groups tab, click Add Local Group.",
+"8. From the Add Local Group window, type and enter a unique group name",
+"9. Click Add Group",
+"* The group is highlighted in the Local Groups list box.",
+"* All information and buttons in the center panel referto the highlighted group.",
+"10. To change a group's roles, select the Dose Admin Role option box and click Apply Roles.",
+"a. A green label confirms the applied roles.",
+"b. An error message box displays if it is unsuccessful."
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "description",
+        "title": "How to set AV Exceeding User Role?",
+        "text": [
+          "1. ClickDoseCheck Managementfrom Protocol Management.",
+"2. Click User Admin Tool.",
+"3. From the EA3 Administration screen, type your Username and Password.",
+"4. From the Local Users tab, click Add Local User.",
+"5. From the pop-up panel, type information for each of the following:",
+"* A unique userID",
+"* FullName",
+"* Password",
+"* Confirm Password",
+"6. Click Add User.",
+"7. From the Groups tab, click Add Local Group.",
+"8. From the Add Local Group window, type and enter a unique group name.",
+"9. Click Add Group.  The group is highlighted in the Local Groups list box.",
+"* All information and buttons in the center panel referto the highlighted group.",
+"10. To change agroup's roles, selecttheDoseCheck AV ExceedingUser option box and click ApplyRoles.  A green label confirms the applied roles.",
+"* An error message box displays if it is unsuccessful."
+        ]
+      }
+    ]
+  ]
+}
