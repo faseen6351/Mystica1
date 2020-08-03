@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+
+
+<aiml>
+<!--author: FASEEN-->
+<!--licence: Standard-->
+<!--created with: GaitoBot AIML Editor V2.10.0.42867-->
+<category>
+	<pattern>STATUS * PATIENT</pattern>
+	<template>STEP:1. Click the Patient Schedule icon. STEP:2.View the Status column. N = New Record or Not Completed C = Completed STEP:3. Click or arrows to page through the list</template>
+</category>
+<category>
+	<pattern>PATIENT STATUS *</pattern>
+	<template>STEP:1. Click the Patient Schedule icon. STEP:2.View the Status column. N = New Record or Not Completed C = Completed STEP:3. Click or arrows to page through the list</template>
+</category>
+<category>
+	<pattern>* PATIENT STATUS</pattern>
+	<template>STEP:1. Click the Patient Schedule icon. STEP:2.View the Status column. N = New Record or Not Completed C = Completed STEP:3. Click or arrows to page through the list.</template>
+</category>
+<category>
+	<pattern></pattern>
+	<template></template>
+</category>
+<category>
+	<pattern></pattern>
+	<template></template>
+</category>
+<category>
+	<pattern></pattern>
+	<template></template>
+</category>
+<category>
+	<pattern></pattern>
+	<template></template>
+</category>
+<category>
+	<pattern></pattern>
+	<template></template>
+</category>
+<category>
+	<pattern></pattern>
+	<template></template>
+</category>
+</aiml>

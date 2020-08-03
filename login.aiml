@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<aiml>
+<!--author: FASEEN-->
+<!--licence: Standard-->
+<!--created with: GaitoBot AIML Editor V2.10.0.42867-->
+<category>
+	<pattern>* LOGIN</pattern>
+	<template>STEP:1. From the logon screen, type your assigned logon name.   STEP:2. Type your password. Click Emergency Logon only if you do not have a valid account set up. The Emergency Logon screen is launched, which does not require a ID or password.  STEP:3. Click Logon</template>
+</category>
+<category>
+	<pattern>LOGIN *</pattern>
+	<template>STEP:1. From the logon screen, type your assigned logon name.   STEP:2. Type your password. Click Emergency Logon only if you do not have a valid account set up. The Emergency Logon screen is launched, which does not require a ID or password.  STEP:3. Click Logon</template>
+</category>
+<category>
+	<pattern>* LOGOUT</pattern>
+	<template>1. From the monitor, click the Shutdown icon. 2. From the Attention Shutdown pop-up screen, click Logout User and OK.</template>
+</category>
+<category>
+	<pattern>LOGOUT *</pattern>
+	<template>1. From the monitor, click the Shutdown icon. 2. From the Attention Shutdown pop-up screen, click Logout User and OK.</template>
+</category>
+<category>
+	<pattern>LOGOFF *</pattern>
+	<template>1. From the monitor, click the Shutdown icon. 2. From the Attention Shutdown pop-up screen, click Logout User and OK.</template>
+</category>
+<category>
+	<pattern>* LOGOFF</pattern>
+	<template>1. From the monitor, click the Shutdown icon. 2. From the Attention Shutdown pop-up screen, click Logout User and OK.</template>
+</category>
+</aiml>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<aiml>
+<!--author: FASEEN-->
+<!--licence: Standard-->
+<!--created with: GaitoBot AIML Editor V2.10.0.42867-->
+<category>
+	<pattern></pattern>
+	<template></template>
+</category>
+<category>
+	<pattern></pattern>
+	<template></template>
+</category>
+<category>
+	<pattern>YES</pattern><that>DO YOU WANT TO KNOW STATUS</that>
+	<template>
+		<random>
+			<li>Good to hear that,these are the steps have a nice day,                                     STEP:1. Click the Patient Schedule icon. STEP:2.View the Status column. N = New Record or Not Completed C = Completed STEP:3. Click or arrows to page through the list</li>
+			<li>Iam happy to know my help is done, take care. STEP:1. Click the Patient Schedule icon. STEP:2.View the Status column. N = New Record or Not Completed C = Completed STEP:3. Click or arrows to page through the list</li>
+		</random></template>
+</category>
+<category>
+	<pattern>NO</pattern><that>DO YOU WANT TO KNOW STATUS</that>
+	<template>Can you be more specific, i understood its something regarding patient.</template>
+</category>
+<category>
+	<pattern>OK</pattern><that>Can you be more specific, i understood its something regarding patient.</that>
+	<template>THEN WHAT DO YOU WANT TO KNOW.</template>
+</category>
+<category>
+	<pattern>* DELETE A PATIENT *</pattern><that>THEN WHAT DO YOU WANT TO KNOW.</that>
+	<template>STEP:1. Click the Patient Schedule icon. STEP:2. From the Schedule screen, select patients to be removed. STEP:3. Click Delete Selected. ï,· Alternatively, choose one of the following options. (Click Delete All to remove all the patients from the list,Click Delete All Completed to remove all the completed patients marked with "C" from the list.) STEP:4. Click OK to the confirmation prompt</template>
+</category>
+<category>
+	<pattern>DELETE A PATIENT</pattern>
+	<template>STEP:1. Click the Patient Schedule icon. STEP:2. From the Schedule screen, select patients to be removed. STEP:3. Click Delete Selected. ï,· Alternatively, choose one of the following options. (Click Delete All to remove all the patients from the list,Click Delete All Completed to remove all the completed patients marked with "C" from the list.) STEP:4. Click OK to the confirmation prompt</template>
+</category>
+<category>
+	<pattern>PATIENT</pattern>
+	<template>DO YOU WANT TO KNOW STATUS</template>
+</category>
+<category>
+	<pattern>* DELETE PATIENT</pattern>
+	<template>STEP:1. Click the Patient Schedule icon. STEP:2. From the Schedule screen, select patients to be removed. STEP:3. Click Delete Selected. ï,· Alternatively, choose one of the following options. (Click Delete All to remove all the patients from the list,Click Delete All Completed to remove all the completed patients marked with "C" from the list.) STEP:4. Click OK to the confirmation prompt</template>
+</category>
+<category>
+	<pattern>* DELETE A PATIENT</pattern>
+	<template>STEP:1. Click the Patient Schedule icon. STEP:2. From the Schedule screen, select patients to be removed. STEP:3. Click Delete Selected. ï,· Alternatively, choose one of the following options. (Click Delete All to remove all the patients from the list,Click Delete All Completed to remove all the completed patients marked with "C" from the list.) STEP:4. Click OK to the confirmation prompt</template>
+</category>
+<category>
+	<pattern>* DELETE A PATIENT *</pattern>
+	<template>STEP:1. Click the Patient Schedule icon. STEP:2. From the Schedule screen, select patients to be removed. STEP:3. Click Delete Selected. ï,· Alternatively, choose one of the following options. (Click Delete All to remove all the patients from the list,Click Delete All Completed to remove all the completed patients marked with "C" from the list.) STEP:4. Click OK to the confirmation prompt</template>
+</category>
+<category>
+	<pattern>DELETE</pattern>
+	<template>STEP:1. Click the Patient Schedule icon. STEP:2. From the Schedule screen, select patients to be removed. STEP:3. Click Delete Selected. ï,· Alternatively, choose one of the following options. (Click Delete All to remove all the patients from the list,Click Delete All Completed to remove all the completed patients marked with "C" from the list.) STEP:4. Click OK to the confirmation prompt</template>
+</category>
+<category>
+	<pattern>DELETE PATIENT</pattern><that>THEN WHAT DO YOU WANT TO KNOW.</that>
+	<template>STEP:1. Click the Patient Schedule icon. STEP:2. From the Schedule screen, select patients to be removed. STEP:3. Click Delete Selected. ï,· Alternatively, choose one of the following options. (Click Delete All to remove all the patients from the list,Click Delete All Completed to remove all the completed patients marked with "C" from the list.) STEP:4. Click OK to the confirmation prompt</template>
+</category>
+<category>
+	<pattern>UPDATE PATIENT</pattern><that>THEN WHAT DO YOU WANT TO KNOW.</that>
+	<template>STEP:1. Click the Patient Schedule icon.      STEP:2. From the Schedule screen, click Update. STEP:3. From the Update Parameters screen, select one of the following options from the Get Patient List to populate the schedule from yourHIS/RIS.      Select This system to pull the patient schedule forthe current scanner.      Select All CT Systems to pull the patient schedule for all of the CT systems on the HIS/ RIS connection.     Select All Systems to pull the patient schedule for all the systems on the HIS/RIS connection.", "STEP:4. Enter values for the Date Range   STEP:5. Enter a Requested Procedure ID, accession number, patient name orID to narrow the search. These are optional fields     STEP:6. Click Continue Update to continue or click Cancel Update to exit and make no changes.</template>
+</category>
+<category>
+	<pattern>* UPDATE A PATIENT</pattern><that>THEN WHAT DO YOU WANT TO KNOW.</that>
+	<template>STEP:1. Click the Patient Schedule icon.      STEP:2. From the Schedule screen, click Update. STEP:3. From the Update Parameters screen, select one of the following options from the Get Patient List to populate the schedule from yourHIS/RIS.      Select This system to pull the patient schedule forthe current scanner.      Select All CT Systems to pull the patient schedule for all of the CT systems on the HIS/ RIS connection.     Select All Systems to pull the patient schedule for all the systems on the HIS/RIS connection.", "STEP:4. Enter values for the Date Range   STEP:5. Enter a Requested Procedure ID, accession number, patient name orID to narrow the search. These are optional fields     STEP:6. Click Continue Update to continue or click Cancel Update to exit and make no changes.</template>
+</category>
+</aiml>
